@@ -1,0 +1,8824 @@
+[
+  {
+    "alert_id": "390223",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ESCALATOR_CLOSURE",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2021-05-25T17:08:09-04:00",
+    "last_modified_boston": "2023-08-16T07:58:16-04:00",
+    "age_seconds": 70210207,
+    "age_human": "812d 14:50:07",
+    "header_texts": [
+      "Courthouse Escalator 415 (Airport/Design Center platform to lobby) unavailable due to ongoing construction at the station. "
+    ],
+    "routes_affected": [
+      "Chelsea Station - South Station",
+      "Logan Airport Terminals - South Station",
+      "Silver Line Way - South Station",
+      "Design Center - South Station"
+    ],
+    "route_ids_affected": [
+      "743",
+      "741",
+      "746",
+      "742"
+    ],
+    "route_desc_affected": [
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus"
+    ],
+    "stops_affected": [
+      "Courthouse",
+      "Courthouse",
+      "Courthouse",
+      "Courthouse"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.352161",
+        "-71.046469"
+      ],
+      [
+        "42.352161",
+        "-71.046469"
+      ],
+      [
+        "42.352161",
+        "-71.046469"
+      ],
+      [
+        "42.352161",
+        "-71.046469"
+      ]
+    ],
+    "facilities_affected": [
+      "415",
+      "415",
+      "415",
+      "415"
+    ],
+    "shapes_affected": [
+      "7430048",
+      "7410055",
+      "7460032",
+      "7420072"
+    ]
+  },
+  {
+    "alert_id": "390224",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ESCALATOR_CLOSURE",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2021-05-25T17:08:43-04:00",
+    "last_modified_boston": "2023-08-16T07:58:49-04:00",
+    "age_seconds": 70210206,
+    "age_human": "812d 14:50:06",
+    "header_texts": [
+      "Courthouse Escalator 417 (Airport/Design Center platform to south lobby) unavailable due to ongoing construction at the station. "
+    ],
+    "routes_affected": [
+      "Logan Airport Terminals - South Station",
+      "Chelsea Station - South Station",
+      "Silver Line Way - South Station",
+      "Design Center - South Station"
+    ],
+    "route_ids_affected": [
+      "741",
+      "743",
+      "746",
+      "742"
+    ],
+    "route_desc_affected": [
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus"
+    ],
+    "stops_affected": [
+      "Courthouse",
+      "Courthouse",
+      "Courthouse",
+      "Courthouse"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.352161",
+        "-71.046469"
+      ],
+      [
+        "42.352161",
+        "-71.046469"
+      ],
+      [
+        "42.352161",
+        "-71.046469"
+      ],
+      [
+        "42.352161",
+        "-71.046469"
+      ]
+    ],
+    "facilities_affected": [
+      "417",
+      "417",
+      "417",
+      "417"
+    ],
+    "shapes_affected": [
+      "7410055",
+      "7430048",
+      "7460032",
+      "7420072"
+    ]
+  },
+  {
+    "alert_id": "416078",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "PARKING_ISSUE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2021-11-04T15:14:54-04:00",
+    "last_modified_boston": "2022-10-20T14:23:44-04:00",
+    "age_seconds": 30236930,
+    "age_human": "349d 23:08:50",
+    "header_texts": [
+      "Lynn Parking Garage arcade stairs 1 and 2 are closed until further notice due to structural issues. Customers may exit the garage via elevators to the ground level or by using the south stairs located on the Market street side of the garage."
+    ],
+    "routes_affected": [
+      "Liberty Tree Mall - Central Square, Lynn via Peabody Square",
+      "Liberty Tree Mall - Central Square, Lynn via Peabody Square",
+      "Liberty Tree Mall - Central Square, Lynn via Peabody Square",
+      "Marblehead - Wonderland Station",
+      "Marblehead - Wonderland Station",
+      "Marblehead - Wonderland Station",
+      "Marblehead - Wonderland Station via Humphrey Street",
+      "Marblehead - Wonderland Station via Humphrey Street",
+      "Marblehead - Wonderland Station via Humphrey Street",
+      "Salem Depot - Wonderland Station",
+      "Salem Depot - Wonderland Station",
+      "Salem Depot - Wonderland Station",
+      "Salem Depot - Central Square, Lynn",
+      "Salem Depot - Central Square, Lynn",
+      "Salem Depot - Central Square, Lynn",
+      "Liberty Tree Mall - Central Square, Lynn via Goodwin Circle",
+      "Liberty Tree Mall - Central Square, Lynn via Goodwin Circle",
+      "Liberty Tree Mall - Central Square, Lynn via Goodwin Circle",
+      "Nahant - Wonderland Station",
+      "Nahant - Wonderland Station",
+      "Nahant - Wonderland Station",
+      "Marblehead - Wonderland Station via Paradise Road",
+      "Marblehead - Wonderland Station via Paradise Road",
+      "Marblehead - Wonderland Station via Paradise Road",
+      "Central Square, Lynn - Haymarket or Wonderland Station",
+      "Central Square, Lynn - Haymarket or Wonderland Station",
+      "Central Square, Lynn - Haymarket or Wonderland Station",
+      "Northgate Shopping Center - Central Square, Lynn",
+      "Northgate Shopping Center - Central Square, Lynn",
+      "Northgate Shopping Center - Central Square, Lynn"
+    ],
+    "route_ids_affected": [
+      "435",
+      "435",
+      "435",
+      "441442",
+      "441442",
+      "441442",
+      "442",
+      "442",
+      "442",
+      "455",
+      "455",
+      "455",
+      "456",
+      "456",
+      "456",
+      "436",
+      "436",
+      "436",
+      "439",
+      "439",
+      "439",
+      "441",
+      "441",
+      "441",
+      "426",
+      "426",
+      "426",
+      "429",
+      "429",
+      "429"
+    ],
+    "route_desc_affected": [
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Coverage Bus",
+      "Coverage Bus",
+      "Coverage Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Coverage Bus",
+      "Coverage Bus",
+      "Coverage Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus"
+    ],
+    "stops_affected": [
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn",
+      "Lynn"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.461856",
+        "-70.945945"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.461856",
+        "-70.945945"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.461856",
+        "-70.945945"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.461856",
+        "-70.945945"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.461856",
+        "-70.945945"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.461856",
+        "-70.945945"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.461856",
+        "-70.945945"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.461856",
+        "-70.945945"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.461856",
+        "-70.945945"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.461856",
+        "-70.945945"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ],
+      [
+        "42.462953",
+        "-70.945421"
+      ]
+    ],
+    "facilities_affected": [
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage",
+      "park-ER-0115-garage"
+    ],
+    "shapes_affected": [
+      "4350272",
+      "4350272",
+      "4350272",
+      "4420291",
+      "4420291",
+      "4420291",
+      "4420290",
+      "4420290",
+      "4420290",
+      "4550310",
+      "4550310",
+      "4550310",
+      "4560088",
+      "4560088",
+      "4560088",
+      "4360282",
+      "4360282",
+      "4360282",
+      "4390108",
+      "4390108",
+      "4390108",
+      "4410241",
+      "4410241",
+      "4410241",
+      "4260279",
+      "4260279",
+      "4260279",
+      "4290316",
+      "4290316",
+      "4290316"
+    ]
+  },
+  {
+    "alert_id": "428140",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "PARKING_ISSUE",
+    "cause": "CONSTRUCTION",
+    "cause_detail": "CONSTRUCTION",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2022-01-24T15:41:17-05:00",
+    "last_modified_boston": "2024-06-28T10:57:46-04:00",
+    "age_seconds": 76529789,
+    "age_human": "885d 18:16:29",
+    "header_texts": [
+      "The Upper Parking Lot at Worcester Station is closed with the exception to accessible parking, due to construction."
+    ],
+    "routes_affected": [
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line"
+    ],
+    "route_ids_affected": [
+      "CR-Worcester",
+      "CR-Worcester"
+    ],
+    "route_desc_affected": [
+      "Regional Rail",
+      "Regional Rail"
+    ],
+    "stops_affected": [
+      "Worcester Union Station - Bus Terminal",
+      "Worcester"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.261530",
+        "-71.795880"
+      ],
+      [
+        "42.261056",
+        "-71.794428"
+      ]
+    ],
+    "facilities_affected": [
+      "park-WML-0442-garage",
+      "park-WML-0442-garage"
+    ],
+    "shapes_affected": [
+      "9850002",
+      "9850002"
+    ]
+  },
+  {
+    "alert_id": "435698",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ESCALATOR_CLOSURE",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2022-03-15T10:13:31-04:00",
+    "last_modified_boston": "2023-06-13T10:12:06-04:00",
+    "age_seconds": 39311915,
+    "age_human": "454d 23:58:35",
+    "header_texts": [
+      "Bowdoin Escalator 125 (Lobby to street) is unavailable until further notice pending replacement. "
+    ],
+    "routes_affected": [
+      "Blue Line",
+      "Blue Line",
+      "Blue Line"
+    ],
+    "route_ids_affected": [
+      "Blue",
+      "Blue",
+      "Blue"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Bowdoin",
+      "Bowdoin",
+      "Cambridge St"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.361365",
+        "-71.062037"
+      ],
+      [
+        "42.361365",
+        "-71.062037"
+      ],
+      [
+        "42.361350",
+        "-71.061971"
+      ]
+    ],
+    "facilities_affected": [
+      "125",
+      "125",
+      "125"
+    ],
+    "shapes_affected": [
+      "946_0013",
+      "946_0013",
+      "946_0013"
+    ]
+  },
+  {
+    "alert_id": "490115",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ESCALATOR_CLOSURE",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2023-03-22T10:20:30-04:00",
+    "last_modified_boston": "2025-01-16T10:30:43-05:00",
+    "age_seconds": 57546613,
+    "age_human": "666d 01:10:13",
+    "header_texts": [
+      "Andrew Escalator 123 (Ashmont/Braintree platform to busway) is unavailable until further notice pending replacement."
+    ],
+    "routes_affected": [
+      "Red Line",
+      "Red Line"
+    ],
+    "route_ids_affected": [
+      "Red",
+      "Red"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Andrew",
+      "Buses"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.330154",
+        "-71.057655"
+      ],
+      [
+        "42.330164",
+        "-71.057605"
+      ]
+    ],
+    "facilities_affected": [
+      "123",
+      "123"
+    ],
+    "shapes_affected": [
+      "931_0009",
+      "931_0009"
+    ]
+  },
+  {
+    "alert_id": "507767",
+    "effect": "UNKNOWN_EFFECT",
+    "effect_detail": "STATION_ISSUE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2023-06-30T15:29:21-04:00",
+    "last_modified_boston": "2025-03-24T00:38:14-04:00",
+    "age_seconds": 54637733,
+    "age_human": "632d 09:08:53",
+    "header_texts": [
+      "The Riverside Ave entrance at Campello Station is currently closed. Passengers may continue to use the Plain St entrance."
+    ],
+    "routes_affected": [
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line"
+    ],
+    "route_ids_affected": [
+      "CR-NewBedford",
+      "CR-NewBedford"
+    ],
+    "route_desc_affected": [
+      "Regional Rail",
+      "Regional Rail"
+    ],
+    "stops_affected": [
+      "Campello",
+      "Campello"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.060951",
+        "-71.011004"
+      ],
+      [
+        "42.060951",
+        "-71.011004"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver"
+    ]
+  },
+  {
+    "alert_id": "577252",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ESCALATOR_CLOSURE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2024-06-13T09:04:34-04:00",
+    "last_modified_boston": "2024-06-20T09:04:16-04:00",
+    "age_seconds": 604782,
+    "age_human": "6d 23:59:42",
+    "header_texts": [
+      "Oak Grove Escalator 105 (Commuter Rail platform to unpaid lobby) unavailable"
+    ],
+    "routes_affected": [
+      "Haverhill Line"
+    ],
+    "route_ids_affected": [
+      "CR-Haverhill"
+    ],
+    "route_desc_affected": [
+      "Regional Rail"
+    ],
+    "stops_affected": [
+      "Oak Grove"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.437731",
+        "-71.070705"
+      ]
+    ],
+    "facilities_affected": [
+      "105"
+    ],
+    "shapes_affected": [
+      "9820002"
+    ]
+  },
+  {
+    "alert_id": "580278",
+    "effect": "UNKNOWN_EFFECT",
+    "effect_detail": "DOCK_ISSUE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2024-06-27T08:33:41-04:00",
+    "last_modified_boston": "2024-07-04T08:33:16-04:00",
+    "age_seconds": 604775,
+    "age_human": "6d 23:59:35",
+    "header_texts": [
+      "Hingham/Hull Ferry: Portions of the Town of Hull parking lot at the Hull ferry terminal are blocked off for sewer pump station construction work through 2025. More information is available at https://www.town.hull.ma.us/"
+    ],
+    "routes_affected": [
+      "Hingham/Hull Ferry"
+    ],
+    "route_ids_affected": [
+      "Boat-F1"
+    ],
+    "route_desc_affected": [
+      "Ferry"
+    ],
+    "stops_affected": [
+      "Hull"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.303251",
+        "-70.920215"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "b0006"
+    ]
+  },
+  {
+    "alert_id": "625935",
+    "effect": "UNKNOWN_EFFECT",
+    "effect_detail": "STATION_ISSUE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-02-05T14:49:33-05:00",
+    "last_modified_boston": "2025-02-12T14:49:16-05:00",
+    "age_seconds": 604783,
+    "age_human": "6d 23:59:43",
+    "header_texts": [
+      "Littleton/Route 495 passengers can expect occasional traffic and detours accessing the station due to the Foster Street reconstruction work. "
+    ],
+    "routes_affected": [
+      "Fitchburg Line",
+      "Fitchburg Line"
+    ],
+    "route_ids_affected": [
+      "CR-Fitchburg",
+      "CR-Fitchburg"
+    ],
+    "route_desc_affected": [
+      "Regional Rail",
+      "Regional Rail"
+    ],
+    "stops_affected": [
+      "Littleton/Route 495",
+      "Littleton/Route 495"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.519236",
+        "-71.502643"
+      ],
+      [
+        "42.519236",
+        "-71.502643"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "9840004",
+      "9840004"
+    ]
+  },
+  {
+    "alert_id": "630009",
+    "effect": "UNKNOWN_EFFECT",
+    "effect_detail": "STATION_ISSUE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-02-28T14:06:38-05:00",
+    "last_modified_boston": "2025-03-07T14:07:16-05:00",
+    "age_seconds": 604838,
+    "age_human": "7d 00:00:38",
+    "header_texts": [
+      "There is no accessible path connecting the inbound and outbound platforms at Wellesley Square Station. The existing path includes steep slopes and is long. Designs are underway to provide for a fully compliant pathway."
+    ],
+    "routes_affected": [
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line"
+    ],
+    "route_ids_affected": [
+      "CR-Worcester",
+      "CR-Worcester"
+    ],
+    "route_desc_affected": [
+      "Regional Rail",
+      "Regional Rail"
+    ],
+    "stops_affected": [
+      "Wellesley Square",
+      "Wellesley Square"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.296963",
+        "-71.295709"
+      ],
+      [
+        "42.296559",
+        "-71.296746"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "9850002",
+      "9850002"
+    ]
+  },
+  {
+    "alert_id": "634987",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ESCALATOR_CLOSURE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-03-31T08:37:37-04:00",
+    "last_modified_boston": "2025-04-07T08:37:15-04:00",
+    "age_seconds": 604778,
+    "age_human": "6d 23:59:38",
+    "header_texts": [
+      "State Escalator 6 (Oak Grove platform to Old State House lobby) unavailable"
+    ],
+    "routes_affected": [
+      "Orange Line",
+      "Orange Line"
+    ],
+    "route_ids_affected": [
+      "Orange",
+      "Orange"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "State",
+      "Old State House, State St"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.358978",
+        "-71.057598"
+      ],
+      [
+        "42.358735",
+        "-71.057298"
+      ]
+    ],
+    "facilities_affected": [
+      "6",
+      "6"
+    ],
+    "shapes_affected": [
+      "903_0026",
+      "903_0026"
+    ]
+  },
+  {
+    "alert_id": "635231",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "BIKE_ISSUE",
+    "cause": "CONSTRUCTION",
+    "cause_detail": "CONSTRUCTION",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-04-01T12:11:52-04:00",
+    "last_modified_boston": "2025-04-08T12:11:16-04:00",
+    "age_seconds": 604764,
+    "age_human": "6d 23:59:24",
+    "header_texts": [
+      "South Station Pedal & Park is closed due to construction. Bicycle racks are currently available on Atlantic Ave adjacent to the South Station main entrance."
+    ],
+    "routes_affected": [
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Logan Airport Terminals - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Chelsea Station - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Fairmount Line",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Franklin/Foxboro Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Greenbush Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Needham Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line"
+    ],
+    "route_ids_affected": [
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "741",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "743",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "746",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Fairmount",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "742",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "CR-Franklin",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Worcester",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Greenbush",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Needham",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence",
+      "CR-Providence"
+    ],
+    "route_desc_affected": [
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail"
+    ],
+    "stops_affected": [
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Atlantic Ave",
+      "South Station Bus Terminal",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station - Atlantic Ave @ Summer St",
+      "South Station - Bus Terminal Gate B1/B2",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "USPS Post Office",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Dewey Sq (Summer St, Atlantic Ave)",
+      "Financial Center",
+      "Main Entry, Dewey Square",
+      "Summer St, Atlantic Ave, Commuter Rail",
+      "Atlantic Ave, Summer St",
+      "Summer St",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Atlantic Ave",
+      "South Station Bus Terminal",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station - Atlantic Ave @ Summer St",
+      "South Station - Bus Terminal Gate B1/B2",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "USPS Post Office",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Dewey Sq (Summer St, Atlantic Ave)",
+      "Financial Center",
+      "Main Entry, Dewey Square",
+      "Summer St, Atlantic Ave, Commuter Rail",
+      "Atlantic Ave, Summer St",
+      "Summer St",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Atlantic Ave",
+      "South Station Bus Terminal",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station - Atlantic Ave @ Summer St",
+      "South Station - Bus Terminal Gate B1/B2",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "USPS Post Office",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Dewey Sq (Summer St, Atlantic Ave)",
+      "Financial Center",
+      "Main Entry, Dewey Square",
+      "Summer St, Atlantic Ave, Commuter Rail",
+      "Atlantic Ave, Summer St",
+      "Summer St",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Atlantic Ave",
+      "South Station Bus Terminal",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station - Atlantic Ave @ Summer St",
+      "South Station - Bus Terminal Gate B1/B2",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "USPS Post Office",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Dewey Sq (Summer St, Atlantic Ave)",
+      "Financial Center",
+      "Main Entry, Dewey Square",
+      "Summer St, Atlantic Ave, Commuter Rail",
+      "Atlantic Ave, Summer St",
+      "Summer St",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Atlantic Ave",
+      "South Station Bus Terminal",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station - Atlantic Ave @ Summer St",
+      "South Station - Bus Terminal Gate B1/B2",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "USPS Post Office",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Dewey Sq (Summer St, Atlantic Ave)",
+      "Financial Center",
+      "Main Entry, Dewey Square",
+      "Summer St, Atlantic Ave, Commuter Rail",
+      "Atlantic Ave, Summer St",
+      "Summer St",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Atlantic Ave",
+      "South Station Bus Terminal",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station - Atlantic Ave @ Summer St",
+      "South Station - Bus Terminal Gate B1/B2",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "USPS Post Office",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Dewey Sq (Summer St, Atlantic Ave)",
+      "Financial Center",
+      "Main Entry, Dewey Square",
+      "Summer St, Atlantic Ave, Commuter Rail",
+      "Atlantic Ave, Summer St",
+      "Summer St",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Atlantic Ave",
+      "South Station Bus Terminal",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station - Atlantic Ave @ Summer St",
+      "South Station - Bus Terminal Gate B1/B2",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "USPS Post Office",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Dewey Sq (Summer St, Atlantic Ave)",
+      "Financial Center",
+      "Main Entry, Dewey Square",
+      "Summer St, Atlantic Ave, Commuter Rail",
+      "Atlantic Ave, Summer St",
+      "Summer St",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Atlantic Ave",
+      "South Station Bus Terminal",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station - Atlantic Ave @ Summer St",
+      "South Station - Bus Terminal Gate B1/B2",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "USPS Post Office",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Dewey Sq (Summer St, Atlantic Ave)",
+      "Financial Center",
+      "Main Entry, Dewey Square",
+      "Summer St, Atlantic Ave, Commuter Rail",
+      "Atlantic Ave, Summer St",
+      "Summer St",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Atlantic Ave",
+      "South Station Bus Terminal",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station - Atlantic Ave @ Summer St",
+      "South Station - Bus Terminal Gate B1/B2",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "USPS Post Office",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Dewey Sq (Summer St, Atlantic Ave)",
+      "Financial Center",
+      "Main Entry, Dewey Square",
+      "Summer St, Atlantic Ave, Commuter Rail",
+      "Atlantic Ave, Summer St",
+      "Summer St",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Atlantic Ave",
+      "South Station Bus Terminal",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station - Atlantic Ave @ Summer St",
+      "South Station - Bus Terminal Gate B1/B2",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "USPS Post Office",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Dewey Sq (Summer St, Atlantic Ave)",
+      "Financial Center",
+      "Main Entry, Dewey Square",
+      "Summer St, Atlantic Ave, Commuter Rail",
+      "Atlantic Ave, Summer St",
+      "Summer St",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Atlantic Ave",
+      "South Station Bus Terminal",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station - Atlantic Ave @ Summer St",
+      "South Station - Bus Terminal Gate B1/B2",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "USPS Post Office",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Dewey Sq (Summer St, Atlantic Ave)",
+      "Financial Center",
+      "Main Entry, Dewey Square",
+      "Summer St, Atlantic Ave, Commuter Rail",
+      "Atlantic Ave, Summer St",
+      "Summer St",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Atlantic Ave",
+      "South Station Bus Terminal",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station - Atlantic Ave @ Summer St",
+      "South Station - Bus Terminal Gate B1/B2",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "USPS Post Office",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Dewey Sq (Summer St, Atlantic Ave)",
+      "Financial Center",
+      "Main Entry, Dewey Square",
+      "Summer St, Atlantic Ave, Commuter Rail",
+      "Atlantic Ave, Summer St",
+      "Summer St",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Atlantic Ave",
+      "South Station Bus Terminal",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station - Atlantic Ave @ Summer St",
+      "South Station - Bus Terminal Gate B1/B2",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "USPS Post Office",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Dewey Sq (Summer St, Atlantic Ave)",
+      "Financial Center",
+      "Main Entry, Dewey Square",
+      "Summer St, Atlantic Ave, Commuter Rail",
+      "Atlantic Ave, Summer St",
+      "Summer St",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Atlantic Ave",
+      "South Station Bus Terminal",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station - Atlantic Ave @ Summer St",
+      "South Station - Bus Terminal Gate B1/B2",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "USPS Post Office",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "South Station",
+      "Dewey Sq (Summer St, Atlantic Ave)",
+      "Financial Center",
+      "Main Entry, Dewey Square",
+      "Summer St, Atlantic Ave, Commuter Rail",
+      "Atlantic Ave, Summer St",
+      "Summer St"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.351551",
+        "-71.055716"
+      ],
+      [
+        "42.350690",
+        "-71.056121"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.352293",
+        "-71.055529"
+      ],
+      [
+        "42.350143",
+        "-71.055743"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.351108",
+        "-71.054729"
+      ],
+      [
+        "42.351410",
+        "-71.055417"
+      ],
+      [
+        "42.351302",
+        "-71.055710"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.352886",
+        "-71.055505"
+      ],
+      [
+        "42.352544",
+        "-71.055824"
+      ],
+      [
+        "42.352302",
+        "-71.055230"
+      ],
+      [
+        "42.352363",
+        "-71.055071"
+      ],
+      [
+        "42.352677",
+        "-71.055013"
+      ],
+      [
+        "42.351787",
+        "-71.054402"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.351551",
+        "-71.055716"
+      ],
+      [
+        "42.350690",
+        "-71.056121"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.352293",
+        "-71.055529"
+      ],
+      [
+        "42.350143",
+        "-71.055743"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.351108",
+        "-71.054729"
+      ],
+      [
+        "42.351410",
+        "-71.055417"
+      ],
+      [
+        "42.351302",
+        "-71.055710"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.352886",
+        "-71.055505"
+      ],
+      [
+        "42.352544",
+        "-71.055824"
+      ],
+      [
+        "42.352302",
+        "-71.055230"
+      ],
+      [
+        "42.352363",
+        "-71.055071"
+      ],
+      [
+        "42.352677",
+        "-71.055013"
+      ],
+      [
+        "42.351787",
+        "-71.054402"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.351551",
+        "-71.055716"
+      ],
+      [
+        "42.350690",
+        "-71.056121"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.352293",
+        "-71.055529"
+      ],
+      [
+        "42.350143",
+        "-71.055743"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.351108",
+        "-71.054729"
+      ],
+      [
+        "42.351410",
+        "-71.055417"
+      ],
+      [
+        "42.351302",
+        "-71.055710"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.352886",
+        "-71.055505"
+      ],
+      [
+        "42.352544",
+        "-71.055824"
+      ],
+      [
+        "42.352302",
+        "-71.055230"
+      ],
+      [
+        "42.352363",
+        "-71.055071"
+      ],
+      [
+        "42.352677",
+        "-71.055013"
+      ],
+      [
+        "42.351787",
+        "-71.054402"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.351551",
+        "-71.055716"
+      ],
+      [
+        "42.350690",
+        "-71.056121"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.352293",
+        "-71.055529"
+      ],
+      [
+        "42.350143",
+        "-71.055743"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.351108",
+        "-71.054729"
+      ],
+      [
+        "42.351410",
+        "-71.055417"
+      ],
+      [
+        "42.351302",
+        "-71.055710"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.352886",
+        "-71.055505"
+      ],
+      [
+        "42.352544",
+        "-71.055824"
+      ],
+      [
+        "42.352302",
+        "-71.055230"
+      ],
+      [
+        "42.352363",
+        "-71.055071"
+      ],
+      [
+        "42.352677",
+        "-71.055013"
+      ],
+      [
+        "42.351787",
+        "-71.054402"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.351551",
+        "-71.055716"
+      ],
+      [
+        "42.350690",
+        "-71.056121"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.352293",
+        "-71.055529"
+      ],
+      [
+        "42.350143",
+        "-71.055743"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.351108",
+        "-71.054729"
+      ],
+      [
+        "42.351410",
+        "-71.055417"
+      ],
+      [
+        "42.351302",
+        "-71.055710"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.352886",
+        "-71.055505"
+      ],
+      [
+        "42.352544",
+        "-71.055824"
+      ],
+      [
+        "42.352302",
+        "-71.055230"
+      ],
+      [
+        "42.352363",
+        "-71.055071"
+      ],
+      [
+        "42.352677",
+        "-71.055013"
+      ],
+      [
+        "42.351787",
+        "-71.054402"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.351551",
+        "-71.055716"
+      ],
+      [
+        "42.350690",
+        "-71.056121"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.352293",
+        "-71.055529"
+      ],
+      [
+        "42.350143",
+        "-71.055743"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.351108",
+        "-71.054729"
+      ],
+      [
+        "42.351410",
+        "-71.055417"
+      ],
+      [
+        "42.351302",
+        "-71.055710"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.352886",
+        "-71.055505"
+      ],
+      [
+        "42.352544",
+        "-71.055824"
+      ],
+      [
+        "42.352302",
+        "-71.055230"
+      ],
+      [
+        "42.352363",
+        "-71.055071"
+      ],
+      [
+        "42.352677",
+        "-71.055013"
+      ],
+      [
+        "42.351787",
+        "-71.054402"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.351551",
+        "-71.055716"
+      ],
+      [
+        "42.350690",
+        "-71.056121"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.352293",
+        "-71.055529"
+      ],
+      [
+        "42.350143",
+        "-71.055743"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.351108",
+        "-71.054729"
+      ],
+      [
+        "42.351410",
+        "-71.055417"
+      ],
+      [
+        "42.351302",
+        "-71.055710"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.352886",
+        "-71.055505"
+      ],
+      [
+        "42.352544",
+        "-71.055824"
+      ],
+      [
+        "42.352302",
+        "-71.055230"
+      ],
+      [
+        "42.352363",
+        "-71.055071"
+      ],
+      [
+        "42.352677",
+        "-71.055013"
+      ],
+      [
+        "42.351787",
+        "-71.054402"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.351551",
+        "-71.055716"
+      ],
+      [
+        "42.350690",
+        "-71.056121"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.352293",
+        "-71.055529"
+      ],
+      [
+        "42.350143",
+        "-71.055743"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.351108",
+        "-71.054729"
+      ],
+      [
+        "42.351410",
+        "-71.055417"
+      ],
+      [
+        "42.351302",
+        "-71.055710"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.352886",
+        "-71.055505"
+      ],
+      [
+        "42.352544",
+        "-71.055824"
+      ],
+      [
+        "42.352302",
+        "-71.055230"
+      ],
+      [
+        "42.352363",
+        "-71.055071"
+      ],
+      [
+        "42.352677",
+        "-71.055013"
+      ],
+      [
+        "42.351787",
+        "-71.054402"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.351551",
+        "-71.055716"
+      ],
+      [
+        "42.350690",
+        "-71.056121"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.352293",
+        "-71.055529"
+      ],
+      [
+        "42.350143",
+        "-71.055743"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.351108",
+        "-71.054729"
+      ],
+      [
+        "42.351410",
+        "-71.055417"
+      ],
+      [
+        "42.351302",
+        "-71.055710"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.352886",
+        "-71.055505"
+      ],
+      [
+        "42.352544",
+        "-71.055824"
+      ],
+      [
+        "42.352302",
+        "-71.055230"
+      ],
+      [
+        "42.352363",
+        "-71.055071"
+      ],
+      [
+        "42.352677",
+        "-71.055013"
+      ],
+      [
+        "42.351787",
+        "-71.054402"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.351551",
+        "-71.055716"
+      ],
+      [
+        "42.350690",
+        "-71.056121"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.352293",
+        "-71.055529"
+      ],
+      [
+        "42.350143",
+        "-71.055743"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.351108",
+        "-71.054729"
+      ],
+      [
+        "42.351410",
+        "-71.055417"
+      ],
+      [
+        "42.351302",
+        "-71.055710"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.352886",
+        "-71.055505"
+      ],
+      [
+        "42.352544",
+        "-71.055824"
+      ],
+      [
+        "42.352302",
+        "-71.055230"
+      ],
+      [
+        "42.352363",
+        "-71.055071"
+      ],
+      [
+        "42.352677",
+        "-71.055013"
+      ],
+      [
+        "42.351787",
+        "-71.054402"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.351551",
+        "-71.055716"
+      ],
+      [
+        "42.350690",
+        "-71.056121"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.352293",
+        "-71.055529"
+      ],
+      [
+        "42.350143",
+        "-71.055743"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.351108",
+        "-71.054729"
+      ],
+      [
+        "42.351410",
+        "-71.055417"
+      ],
+      [
+        "42.351302",
+        "-71.055710"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.352886",
+        "-71.055505"
+      ],
+      [
+        "42.352544",
+        "-71.055824"
+      ],
+      [
+        "42.352302",
+        "-71.055230"
+      ],
+      [
+        "42.352363",
+        "-71.055071"
+      ],
+      [
+        "42.352677",
+        "-71.055013"
+      ],
+      [
+        "42.351787",
+        "-71.054402"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.351551",
+        "-71.055716"
+      ],
+      [
+        "42.350690",
+        "-71.056121"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.352293",
+        "-71.055529"
+      ],
+      [
+        "42.350143",
+        "-71.055743"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.351108",
+        "-71.054729"
+      ],
+      [
+        "42.351410",
+        "-71.055417"
+      ],
+      [
+        "42.351302",
+        "-71.055710"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.352886",
+        "-71.055505"
+      ],
+      [
+        "42.352544",
+        "-71.055824"
+      ],
+      [
+        "42.352302",
+        "-71.055230"
+      ],
+      [
+        "42.352363",
+        "-71.055071"
+      ],
+      [
+        "42.352677",
+        "-71.055013"
+      ],
+      [
+        "42.351787",
+        "-71.054402"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.351551",
+        "-71.055716"
+      ],
+      [
+        "42.350690",
+        "-71.056121"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.352293",
+        "-71.055529"
+      ],
+      [
+        "42.350143",
+        "-71.055743"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.351108",
+        "-71.054729"
+      ],
+      [
+        "42.351410",
+        "-71.055417"
+      ],
+      [
+        "42.351302",
+        "-71.055710"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.352886",
+        "-71.055505"
+      ],
+      [
+        "42.352544",
+        "-71.055824"
+      ],
+      [
+        "42.352302",
+        "-71.055230"
+      ],
+      [
+        "42.352363",
+        "-71.055071"
+      ],
+      [
+        "42.352677",
+        "-71.055013"
+      ],
+      [
+        "42.351787",
+        "-71.054402"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.352271",
+        "-71.055242"
+      ],
+      [
+        "42.351551",
+        "-71.055716"
+      ],
+      [
+        "42.350690",
+        "-71.056121"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.350742",
+        "-71.054930"
+      ],
+      [
+        "42.352293",
+        "-71.055529"
+      ],
+      [
+        "42.350143",
+        "-71.055743"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351178",
+        "-71.055238"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351136",
+        "-71.055081"
+      ],
+      [
+        "42.351034",
+        "-71.054958"
+      ],
+      [
+        "42.351108",
+        "-71.054729"
+      ],
+      [
+        "42.351410",
+        "-71.055417"
+      ],
+      [
+        "42.351302",
+        "-71.055710"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351261",
+        "-71.055552"
+      ],
+      [
+        "42.351220",
+        "-71.055396"
+      ],
+      [
+        "42.352886",
+        "-71.055505"
+      ],
+      [
+        "42.352544",
+        "-71.055824"
+      ],
+      [
+        "42.352302",
+        "-71.055230"
+      ],
+      [
+        "42.352363",
+        "-71.055071"
+      ],
+      [
+        "42.352677",
+        "-71.055013"
+      ],
+      [
+        "42.351787",
+        "-71.054402"
+      ]
+    ],
+    "facilities_affected": [
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat",
+      "bike-sstat"
+    ],
+    "shapes_affected": [
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7410055",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7430048",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "7460032",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "9870002",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "7420072",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "9880003",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9850002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9900002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9860002",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009",
+      "9890009"
+    ]
+  },
+  {
+    "alert_id": "639578",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ESCALATOR_CLOSURE",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-04-23T11:12:13-04:00",
+    "last_modified_boston": "2025-04-30T11:12:16-04:00",
+    "age_seconds": 604803,
+    "age_human": "7d 00:00:03",
+    "header_texts": [
+      "Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance."
+    ],
+    "routes_affected": [
+      "Haverhill Line"
+    ],
+    "route_ids_affected": [
+      "CR-Haverhill"
+    ],
+    "route_desc_affected": [
+      "Regional Rail"
+    ],
+    "stops_affected": [
+      "Malden Center"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.426632",
+        "-71.074110"
+      ]
+    ],
+    "facilities_affected": [
+      "312"
+    ],
+    "shapes_affected": [
+      "9820002"
+    ]
+  },
+  {
+    "alert_id": "651836",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ESCALATOR_CLOSURE",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-06-24T09:45:32-04:00",
+    "last_modified_boston": "2025-07-01T09:45:01-04:00",
+    "age_seconds": 604769,
+    "age_human": "6d 23:59:29",
+    "header_texts": [
+      "Assembly Escalator 442 (Foley Street to unpaid lobby) unavailable due to maintenance"
+    ],
+    "routes_affected": [
+      "Orange Line",
+      "Orange Line",
+      "Orange Line"
+    ],
+    "route_ids_affected": [
+      "Orange",
+      "Orange",
+      "Orange"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Assembly",
+      "Assembly",
+      "Foley St"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.392331",
+        "-71.077262"
+      ],
+      [
+        "42.392336",
+        "-71.077180"
+      ],
+      [
+        "42.393312",
+        "-71.077661"
+      ]
+    ],
+    "facilities_affected": [
+      "442",
+      "442",
+      "442"
+    ],
+    "shapes_affected": [
+      "903_0026",
+      "903_0026",
+      "903_0026"
+    ]
+  },
+  {
+    "alert_id": "652201",
+    "effect": "UNKNOWN_EFFECT",
+    "effect_detail": "STATION_ISSUE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-06-25T11:15:08-04:00",
+    "last_modified_boston": "2025-09-12T16:41:37-04:00",
+    "age_seconds": 6845189,
+    "age_human": "79d 05:26:29",
+    "header_texts": [
+      "Jackson Square: The stairway connecting the Jackson Sq lobby and the south end of the platform is closed until winter 2026. Use the stairway at the north end of the platform. This closure is for the construction of a new stairway and a second elevator."
+    ],
+    "routes_affected": [
+      "Orange Line",
+      "Orange Line"
+    ],
+    "route_ids_affected": [
+      "Orange",
+      "Orange"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Jackson Square",
+      "Jackson Square"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.323132",
+        "-71.099592"
+      ],
+      [
+        "42.323132",
+        "-71.099592"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "903_0026",
+      "903_0026"
+    ]
+  },
+  {
+    "alert_id": "656012",
+    "effect": "UNKNOWN_EFFECT",
+    "effect_detail": "STATION_ISSUE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-07-17T10:02:20-04:00",
+    "last_modified_boston": "2025-09-24T12:49:31-04:00",
+    "age_seconds": 5971631,
+    "age_human": "69d 02:47:11",
+    "header_texts": [
+      "To accommodate Providence Station Renovations, construction barriers have been installed and the Southern stairwell to Track 1 is out of service. Staircase access to Track 3 and Track 5 are now open. "
+    ],
+    "routes_affected": [
+      "Foxboro Event Service",
+      "Foxboro Event Service",
+      "Providence/Stoughton Line",
+      "Providence/Stoughton Line"
+    ],
+    "route_ids_affected": [
+      "CR-Foxboro",
+      "CR-Foxboro",
+      "CR-Providence",
+      "CR-Providence"
+    ],
+    "route_desc_affected": [
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail"
+    ],
+    "stops_affected": [
+      "Providence",
+      "Providence",
+      "Providence",
+      "Providence"
+    ],
+    "stops_latlon_affected": [
+      [
+        "41.829293",
+        "-71.413301"
+      ],
+      [
+        "41.829293",
+        "-71.413301"
+      ],
+      [
+        "41.829293",
+        "-71.413301"
+      ],
+      [
+        "41.829293",
+        "-71.413301"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "SouthStationToFoxboroViaBackBay",
+      "SouthStationToFoxboroViaBackBay",
+      "9890009",
+      "9890009"
+    ]
+  },
+  {
+    "alert_id": "658350",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ESCALATOR_CLOSURE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-07-31T13:46:40-04:00",
+    "last_modified_boston": "2025-08-07T13:46:01-04:00",
+    "age_seconds": 604761,
+    "age_human": "6d 23:59:21",
+    "header_texts": [
+      "Ruggles Escalator 136 (Orange Line platform to upper lobby) unavailable"
+    ],
+    "routes_affected": [
+      "Orange Line",
+      "Orange Line"
+    ],
+    "route_ids_affected": [
+      "Orange",
+      "Orange"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Ruggles",
+      "Ruggles"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.336490",
+        "-71.089684"
+      ],
+      [
+        "42.336451",
+        "-71.089635"
+      ]
+    ],
+    "facilities_affected": [
+      "136",
+      "136"
+    ],
+    "shapes_affected": [
+      "903_0026",
+      "903_0026"
+    ]
+  },
+  {
+    "alert_id": "658971",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "TRACK_CHANGE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-08-04T02:08:53-04:00",
+    "last_modified_boston": "2025-10-20T09:44:29-04:00",
+    "age_seconds": 6680136,
+    "age_human": "77d 07:35:36",
+    "header_texts": [
+      "Please board all outbound Providence/Stoughton Line trains using the temporary outbound platform (Track 3) at Readville until further notice. "
+    ],
+    "routes_affected": [],
+    "route_ids_affected": [],
+    "route_desc_affected": [],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": []
+  },
+  {
+    "alert_id": "661599",
+    "effect": "UNKNOWN_EFFECT",
+    "effect_detail": "DOCK_ISSUE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-08-19T11:55:30-04:00",
+    "last_modified_boston": "2025-09-03T12:40:18-04:00",
+    "age_seconds": 1298688,
+    "age_human": "15d 00:44:48",
+    "header_texts": [
+      "Construction is ongoing in the Hingham Parking lot and on Shipyard Drive in preparation for the Hingham Ferry Dock upgrades. There is reduced parking in the lot, and portions of Shipyard Drive and driveways to and from the parking lot are affected"
+    ],
+    "routes_affected": [
+      "Hingham/Hull Ferry"
+    ],
+    "route_ids_affected": [
+      "Boat-F1"
+    ],
+    "route_desc_affected": [
+      "Ferry"
+    ],
+    "stops_affected": [
+      "Hingham"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.253956",
+        "-70.919844"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "b0006"
+    ]
+  },
+  {
+    "alert_id": "661698",
+    "effect": "DETOUR",
+    "effect_detail": "DETOUR",
+    "cause": "CONSTRUCTION",
+    "cause_detail": "CONSTRUCTION",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-08-20T00:01:31-04:00",
+    "last_modified_boston": "2025-10-13T08:33:07-04:00",
+    "age_seconds": 4696296,
+    "age_human": "54d 08:31:36",
+    "header_texts": [
+      "Route 34E detoured due to construction. The nearest inbound connections are 710 East St opp Kendall St or Washington St opp Washington Green. The nearest outbound connections are Washington St @ Washington Green or East St @ Kendall St."
+    ],
+    "routes_affected": [
+      "Walpole Center - Forest Hills Station",
+      "Walpole Center - Forest Hills Station",
+      "Walpole Center - Forest Hills Station",
+      "Walpole Center - Forest Hills Station",
+      "Walpole Center - Forest Hills Station",
+      "Walpole Center - Forest Hills Station"
+    ],
+    "route_ids_affected": [
+      "34E",
+      "34E",
+      "34E",
+      "34E",
+      "34E",
+      "34E"
+    ],
+    "route_desc_affected": [
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus"
+    ],
+    "stops_affected": [
+      "Washington St @ Short St",
+      "Washington St @ Lafayette Dr",
+      "625 Washington St",
+      "Washington St @ Polley Ln",
+      "Washington St @ Pilgrim Way",
+      "624 Washington St opp Bird Middle School"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.154957",
+        "-71.221976"
+      ],
+      [
+        "42.151660",
+        "-71.224862"
+      ],
+      [
+        "42.146965",
+        "-71.229095"
+      ],
+      [
+        "42.154754",
+        "-71.221995"
+      ],
+      [
+        "42.151728",
+        "-71.224638"
+      ],
+      [
+        "42.146594",
+        "-71.229238"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "34E0268",
+      "34E0268",
+      "34E0268",
+      "34E0268",
+      "34E0268",
+      "34E0268"
+    ]
+  },
+  {
+    "alert_id": "661805",
+    "effect": "DETOUR",
+    "effect_detail": "DETOUR",
+    "cause": "CONSTRUCTION",
+    "cause_detail": "CONSTRUCTION",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-08-20T16:35:58-04:00",
+    "last_modified_boston": "2025-08-27T16:35:01-04:00",
+    "age_seconds": 604743,
+    "age_human": "6d 23:59:03",
+    "header_texts": [
+      "Routes 71 and 73 are detoured due to construction. The nearest connections are Mt Auburn St @ Mt Auburn Hospital or Mt Auburn St @ Traill St. "
+    ],
+    "routes_affected": [
+      "Watertown Square - Harvard Station",
+      "Watertown Square - Harvard Station",
+      "Watertown Square - Harvard Station",
+      "Waverley Square - Harvard Station",
+      "Waverley Square - Harvard Station",
+      "Waverley Square - Harvard Station"
+    ],
+    "route_ids_affected": [
+      "71",
+      "71",
+      "71",
+      "73",
+      "73",
+      "73"
+    ],
+    "route_desc_affected": [
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus"
+    ],
+    "stops_affected": [
+      "Mt Auburn St @ Sparks St",
+      "Mt Auburn St @ Longfellow Rd",
+      "Mt Auburn St opp Sparks St",
+      "Mt Auburn St @ Sparks St",
+      "Mt Auburn St @ Longfellow Rd",
+      "Mt Auburn St opp Sparks St"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.374729",
+        "-71.130454"
+      ],
+      [
+        "42.374987",
+        "-71.134068"
+      ],
+      [
+        "42.374625",
+        "-71.130712"
+      ],
+      [
+        "42.374729",
+        "-71.130454"
+      ],
+      [
+        "42.374987",
+        "-71.134068"
+      ],
+      [
+        "42.374625",
+        "-71.130712"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "710156",
+      "710156",
+      "710156",
+      "730188",
+      "730188",
+      "730188"
+    ]
+  },
+  {
+    "alert_id": "662747",
+    "effect": "DETOUR",
+    "effect_detail": "DETOUR",
+    "cause": "CONSTRUCTION",
+    "cause_detail": "CONSTRUCTION",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-08-26T14:57:03-04:00",
+    "last_modified_boston": "2025-09-02T14:57:01-04:00",
+    "age_seconds": 604798,
+    "age_human": "6d 23:59:58",
+    "header_texts": [
+      "Route 429 detoured due to construction. The nearest outbound connections are Lynn Station and Market St @ Liberty St."
+    ],
+    "routes_affected": [
+      "Northgate Shopping Center - Central Square, Lynn",
+      "Northgate Shopping Center - Central Square, Lynn"
+    ],
+    "route_ids_affected": [
+      "429",
+      "429"
+    ],
+    "route_desc_affected": [
+      "Local Bus",
+      "Local Bus"
+    ],
+    "stops_affected": [
+      "Oxford St @ Washington St",
+      "Oxford St @ Market St"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.463901",
+        "-70.946636"
+      ],
+      [
+        "42.462760",
+        "-70.947962"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "4290316",
+      "4290316"
+    ]
+  },
+  {
+    "alert_id": "663337",
+    "effect": "MODIFIED_SERVICE",
+    "effect_detail": "SCHEDULE_CHANGE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-08-29T15:53:29-04:00",
+    "last_modified_boston": "2025-10-28T13:58:52-04:00",
+    "age_seconds": 5177123,
+    "age_human": "59d 22:05:23",
+    "header_texts": [
+      "The Franklin/Foxboro Line has an emergency Amtrak repair temporary schedule in effect until further notice.  "
+    ],
+    "routes_affected": [
+      "Franklin/Foxboro Line"
+    ],
+    "route_ids_affected": [
+      "CR-Franklin"
+    ],
+    "route_desc_affected": [
+      "Regional Rail"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "9880003"
+    ]
+  },
+  {
+    "alert_id": "663338",
+    "effect": "MODIFIED_SERVICE",
+    "effect_detail": "SCHEDULE_CHANGE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-08-29T15:55:25-04:00",
+    "last_modified_boston": "2025-10-28T13:59:28-04:00",
+    "age_seconds": 5177043,
+    "age_human": "59d 22:04:03",
+    "header_texts": [
+      "The Fairmount Line has an emergency Amtrak repair temporary schedule in effect until further notice."
+    ],
+    "routes_affected": [
+      "Fairmount Line"
+    ],
+    "route_ids_affected": [
+      "CR-Fairmount"
+    ],
+    "route_desc_affected": [
+      "Regional Rail"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "9870002"
+    ]
+  },
+  {
+    "alert_id": "665121",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ELEVATOR_CLOSURE",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-09-09T14:07:44-04:00",
+    "last_modified_boston": "2025-11-03T07:13:27-05:00",
+    "age_seconds": 4730743,
+    "age_human": "54d 18:05:43",
+    "header_texts": [
+      "Chinatown Elevator 876 (Oak Grove platform to Washington St, Essex St) is unavailable until further notice while it undergoes major equipment upgrades."
+    ],
+    "routes_affected": [
+      "Orange Line",
+      "Orange Line"
+    ],
+    "route_ids_affected": [
+      "Orange",
+      "Orange"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Chinatown",
+      "Elevator (Oak Grove)"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.352547",
+        "-71.062752"
+      ],
+      [
+        "42.352628",
+        "-71.062443"
+      ]
+    ],
+    "facilities_affected": [
+      "876",
+      "876"
+    ],
+    "shapes_affected": [
+      "903_0026",
+      "903_0026"
+    ]
+  },
+  {
+    "alert_id": "665175",
+    "effect": "DETOUR",
+    "effect_detail": "DETOUR",
+    "cause": "CONSTRUCTION",
+    "cause_detail": "CONSTRUCTION",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-09-09T16:29:35-04:00",
+    "last_modified_boston": "2025-09-16T16:29:01-04:00",
+    "age_seconds": 604766,
+    "age_human": "6d 23:59:26",
+    "header_texts": [
+      "Route 435 detoured due to construction. The nearest outbound connections are Neptune Blvd @ Blossom St and Lynn Station."
+    ],
+    "routes_affected": [
+      "Liberty Tree Mall - Central Square, Lynn via Peabody Square",
+      "Liberty Tree Mall - Central Square, Lynn via Peabody Square"
+    ],
+    "route_ids_affected": [
+      "435",
+      "435"
+    ],
+    "route_desc_affected": [
+      "Local Bus",
+      "Local Bus"
+    ],
+    "stops_affected": [
+      "Tremont St opp St Mary's High School",
+      "Market St @ Tremont St"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.462480",
+        "-70.950662"
+      ],
+      [
+        "42.463153",
+        "-70.949441"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "4350272",
+      "4350272"
+    ]
+  },
+  {
+    "alert_id": "667716",
+    "effect": "DETOUR",
+    "effect_detail": "DETOUR",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-09-22T15:21:18-04:00",
+    "last_modified_boston": "2025-10-06T03:00:00-04:00",
+    "age_seconds": 1165122,
+    "age_human": "13d 11:38:42",
+    "header_texts": [
+      "Route 40 is being detoured until further notice. Buses are omitting Georgetowne Dr @ Margaretta Dr. Please use the nearby stop at W Boundary Rd @ Georgetowne Dr."
+    ],
+    "routes_affected": [
+      "Georgetowne - Forest Hills Station",
+      "Georgetowne - Forest Hills Station",
+      "Georgetowne - Forest Hills Station",
+      "Georgetowne - Forest Hills Station",
+      "Georgetowne - Forest Hills Station",
+      "Georgetowne - Forest Hills Station"
+    ],
+    "route_ids_affected": [
+      "40",
+      "40",
+      "40",
+      "4050",
+      "4050",
+      "4050"
+    ],
+    "route_desc_affected": [
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus"
+    ],
+    "stops_affected": [
+      "Georgetowne Dr @ Margaretta Dr",
+      "Margaretta Dr @ Crown Point Dr",
+      "Georgetowne Dr opp Margaretta Dr",
+      "Margaretta Dr @ Crown Point Dr",
+      "Georgetowne Dr opp Margaretta Dr",
+      "Georgetowne Dr @ Margaretta Dr"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.258090",
+        "-71.144959"
+      ],
+      [
+        "42.257411",
+        "-71.146391"
+      ],
+      [
+        "42.258051",
+        "-71.144821"
+      ],
+      [
+        "42.257411",
+        "-71.146391"
+      ],
+      [
+        "42.258051",
+        "-71.144821"
+      ],
+      [
+        "42.258090",
+        "-71.144959"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "400100",
+      "400100",
+      "400100",
+      "400103",
+      "400103",
+      "400103"
+    ]
+  },
+  {
+    "alert_id": "667834",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ESCALATOR_CLOSURE",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-09-23T08:15:32-04:00",
+    "last_modified_boston": "2025-09-30T08:15:02-04:00",
+    "age_seconds": 604770,
+    "age_human": "6d 23:59:30",
+    "header_texts": [
+      "Government Center Escalator 446 (Blue Line platform to Green Line platform) unavailable due to maintenance"
+    ],
+    "routes_affected": [
+      "Blue Line",
+      "Blue Line"
+    ],
+    "route_ids_affected": [
+      "Blue",
+      "Blue"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Government Center",
+      "Government Center"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.359705",
+        "-71.059215"
+      ],
+      [
+        "42.359705",
+        "-71.059215"
+      ]
+    ],
+    "facilities_affected": [
+      "446",
+      "446"
+    ],
+    "shapes_affected": [
+      "946_0013",
+      "946_0013"
+    ]
+  },
+  {
+    "alert_id": "668492",
+    "effect": "UNKNOWN_EFFECT",
+    "effect_detail": "STATION_ISSUE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-09-26T10:22:20-04:00",
+    "last_modified_boston": "2025-10-04T03:00:01-04:00",
+    "age_seconds": 664661,
+    "age_human": "7d 16:37:41",
+    "header_texts": [
+      "Jackson Square: The platform is undergoing renovations to improve safety and accessibility. Sections of the platform are unlevel, which may make it difficult for some riders to board and exit trains. This work will take place through fall 2025."
+    ],
+    "routes_affected": [
+      "Orange Line",
+      "Orange Line"
+    ],
+    "route_ids_affected": [
+      "Orange",
+      "Orange"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Jackson Square",
+      "Jackson Square"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.323132",
+        "-71.099592"
+      ],
+      [
+        "42.323132",
+        "-71.099592"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "903_0026",
+      "903_0026"
+    ]
+  },
+  {
+    "alert_id": "669828",
+    "effect": "MODIFIED_SERVICE",
+    "effect_detail": "SCHEDULE_CHANGE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-10-03T11:40:19-04:00",
+    "last_modified_boston": "2025-11-09T03:00:03-05:00",
+    "age_seconds": 3169184,
+    "age_human": "36d 16:19:44",
+    "header_texts": [
+      "The new Fall/Winter Schedule will go into effect on Monday, October 27th with seasonal and on-time performance adjustments. The schedule for all lines are available on MBTA.com now and at Boston hub stations soon."
+    ],
+    "routes_affected": [
+      "Fitchburg Line",
+      "Greenbush Line",
+      "Haverhill Line",
+      "Kingston Line",
+      "Lowell Line",
+      "Needham Line",
+      "Fall River/New Bedford Line",
+      "Newburyport/Rockport Line",
+      "Framingham/Worcester Line"
+    ],
+    "route_ids_affected": [
+      "CR-Fitchburg",
+      "CR-Greenbush",
+      "CR-Haverhill",
+      "CR-Kingston",
+      "CR-Lowell",
+      "CR-Needham",
+      "CR-NewBedford",
+      "CR-Newburyport",
+      "CR-Worcester"
+    ],
+    "route_desc_affected": [
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "9840004",
+      "9900002",
+      "9820002",
+      "9790002",
+      "9830006",
+      "9860002",
+      "SouthStationToFallRiver",
+      "9810002",
+      "9850002"
+    ]
+  },
+  {
+    "alert_id": "669829",
+    "effect": "MODIFIED_SERVICE",
+    "effect_detail": "SCHEDULE_CHANGE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-10-03T11:44:24-04:00",
+    "last_modified_boston": "2025-11-03T02:00:01-05:00",
+    "age_seconds": 2646937,
+    "age_human": "30d 15:15:37",
+    "header_texts": [
+      "The Providence/Stoughton Line has a new emergency Amtrak repair schedule effective 10/27 until further notice."
+    ],
+    "routes_affected": [
+      "Providence/Stoughton Line"
+    ],
+    "route_ids_affected": [
+      "CR-Providence"
+    ],
+    "route_desc_affected": [
+      "Regional Rail"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "9890009"
+    ]
+  },
+  {
+    "alert_id": "672170",
+    "effect": "STOP_MOVED",
+    "effect_detail": "STOP_MOVE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-10-14T17:48:21-04:00",
+    "last_modified_boston": "2025-11-06T07:56:02-05:00",
+    "age_seconds": 1955261,
+    "age_human": "22d 15:07:41",
+    "header_texts": [
+      "The stop at Somerville Ave @ Union Square (inbound) has moved permanently to the intersection of Somerville Ave & Hawkins St, about 350 feet away."
+    ],
+    "routes_affected": [
+      "Spring Hill - Kendall/MIT Station",
+      "Clarendon Hill or Arlington Center - Lechmere Station"
+    ],
+    "route_ids_affected": [
+      "85",
+      "87"
+    ],
+    "route_desc_affected": [
+      "Local Bus",
+      "Local Bus"
+    ],
+    "stops_affected": [
+      "Somerville Ave @ Union Square",
+      "Somerville Ave @ Union Square"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.379996",
+        "-71.096698"
+      ],
+      [
+        "42.379996",
+        "-71.096698"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "850083",
+      "870206"
+    ]
+  },
+  {
+    "alert_id": "673353",
+    "effect": "DETOUR",
+    "effect_detail": "SHUTTLE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "UPCOMING",
+    "created_at_boston": "2025-10-20T12:50:53-04:00",
+    "last_modified_boston": "2025-11-09T03:00:01-05:00",
+    "age_seconds": 1696148,
+    "age_human": "19d 15:09:08",
+    "header_texts": [
+      "Orange Line: Shuttle buses replace service between Back Bay and Forest Hills beginning at 8:30 PM on Friday, November 14, through Sunday, November 16, for signal upgrades."
+    ],
+    "routes_affected": [
+      "Orange Line",
+      "Orange Line",
+      "Orange Line",
+      "Orange Line",
+      "Orange Line",
+      "Orange Line",
+      "Orange Line",
+      "Orange Line",
+      "Orange Line",
+      "Orange Line",
+      "Orange Line",
+      "Orange Line",
+      "Orange Line",
+      "Orange Line",
+      "Orange Line",
+      "Orange Line"
+    ],
+    "route_ids_affected": [
+      "Orange",
+      "Orange",
+      "Orange",
+      "Orange",
+      "Orange",
+      "Orange",
+      "Orange",
+      "Orange",
+      "Orange",
+      "Orange",
+      "Orange",
+      "Orange",
+      "Orange",
+      "Orange",
+      "Orange",
+      "Orange"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Forest Hills",
+      "Green Street",
+      "Stony Brook",
+      "Jackson Square",
+      "Roxbury Crossing",
+      "Ruggles",
+      "Massachusetts Avenue",
+      "Back Bay",
+      "Forest Hills",
+      "Green Street",
+      "Stony Brook",
+      "Jackson Square",
+      "Roxbury Crossing",
+      "Ruggles",
+      "Massachusetts Avenue",
+      "Back Bay"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.300926",
+        "-71.114129"
+      ],
+      [
+        "42.309832",
+        "-71.108059"
+      ],
+      [
+        "42.317062",
+        "-71.104248"
+      ],
+      [
+        "42.323132",
+        "-71.099592"
+      ],
+      [
+        "42.330671",
+        "-71.096121"
+      ],
+      [
+        "42.336490",
+        "-71.089684"
+      ],
+      [
+        "42.340927",
+        "-71.084188"
+      ],
+      [
+        "42.347350",
+        "-71.075727"
+      ],
+      [
+        "42.300926",
+        "-71.114129"
+      ],
+      [
+        "42.309796",
+        "-71.107988"
+      ],
+      [
+        "42.317062",
+        "-71.104248"
+      ],
+      [
+        "42.323132",
+        "-71.099592"
+      ],
+      [
+        "42.330640",
+        "-71.096040"
+      ],
+      [
+        "42.336451",
+        "-71.089635"
+      ],
+      [
+        "42.340892",
+        "-71.084124"
+      ],
+      [
+        "42.347350",
+        "-71.075727"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "903_0026",
+      "903_0026",
+      "903_0026",
+      "903_0026",
+      "903_0026",
+      "903_0026",
+      "903_0026",
+      "903_0026",
+      "903_0026",
+      "903_0026",
+      "903_0026",
+      "903_0026",
+      "903_0026",
+      "903_0026",
+      "903_0026",
+      "903_0026"
+    ]
+  },
+  {
+    "alert_id": "673383",
+    "effect": "REDUCED_SERVICE",
+    "effect_detail": "SUSPENSION",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-10-20T14:47:42-04:00",
+    "last_modified_boston": "2025-11-07T03:00:06-05:00",
+    "age_seconds": 1516344,
+    "age_human": "17d 13:12:24",
+    "header_texts": [
+      "Green Line: There is no train service between Medford/Tufts, Union Sq., and Park St., through Nov 13, for track work. Use shuttle buses between Medford/Tufts & North Station. Use the Orange Line downtown. Union Sq. riders use Rt 87 to Lechmere"
+    ],
+    "routes_affected": [
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line C",
+      "Green Line C",
+      "Green Line C",
+      "Green Line C",
+      "Green Line D",
+      "Green Line D",
+      "Green Line D",
+      "Green Line D",
+      "Green Line D",
+      "Green Line D",
+      "Green Line D",
+      "Green Line D",
+      "Green Line D",
+      "Green Line D",
+      "Green Line D",
+      "Green Line D",
+      "Green Line D",
+      "Green Line D",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E",
+      "Green Line E"
+    ],
+    "route_ids_affected": [
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-C",
+      "Green-C",
+      "Green-C",
+      "Green-C",
+      "Green-D",
+      "Green-D",
+      "Green-D",
+      "Green-D",
+      "Green-D",
+      "Green-D",
+      "Green-D",
+      "Green-D",
+      "Green-D",
+      "Green-D",
+      "Green-D",
+      "Green-D",
+      "Green-D",
+      "Green-D",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E",
+      "Green-E"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Park Street",
+      "Government Center",
+      "Park Street",
+      "Government Center",
+      "Park Street",
+      "Government Center",
+      "Park Street",
+      "Government Center",
+      "Park Street",
+      "Government Center",
+      "Haymarket",
+      "North Station",
+      "Science Park/West End",
+      "Lechmere",
+      "Union Square",
+      "Park Street",
+      "Government Center",
+      "Haymarket",
+      "North Station",
+      "Science Park/West End",
+      "Lechmere",
+      "Union Square",
+      "Park Street",
+      "Government Center",
+      "Haymarket",
+      "North Station",
+      "Science Park/West End",
+      "Lechmere",
+      "Gilman Square",
+      "Magoun Square",
+      "Ball Square",
+      "Medford/Tufts",
+      "East Somerville",
+      "Park Street",
+      "Government Center",
+      "Haymarket",
+      "North Station",
+      "Science Park/West End",
+      "Lechmere",
+      "Gilman Square",
+      "Magoun Square",
+      "Ball Square",
+      "Medford/Tufts",
+      "East Somerville"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.356395",
+        "-71.062424"
+      ],
+      [
+        "42.359705",
+        "-71.059215"
+      ],
+      [
+        "42.356395",
+        "-71.062424"
+      ],
+      [
+        "42.359705",
+        "-71.059215"
+      ],
+      [
+        "42.356395",
+        "-71.062424"
+      ],
+      [
+        "42.359705",
+        "-71.059215"
+      ],
+      [
+        "42.356395",
+        "-71.062424"
+      ],
+      [
+        "42.359705",
+        "-71.059215"
+      ],
+      [
+        "42.356395",
+        "-71.062424"
+      ],
+      [
+        "42.359705",
+        "-71.059215"
+      ],
+      [
+        "42.363021",
+        "-71.058290"
+      ],
+      [
+        "42.365280",
+        "-71.060205"
+      ],
+      [
+        "42.366664",
+        "-71.067666"
+      ],
+      [
+        "42.370989",
+        "-71.075860"
+      ],
+      [
+        "42.376990",
+        "-71.093993"
+      ],
+      [
+        "42.356395",
+        "-71.062424"
+      ],
+      [
+        "42.359705",
+        "-71.059215"
+      ],
+      [
+        "42.363021",
+        "-71.058290"
+      ],
+      [
+        "42.365280",
+        "-71.060205"
+      ],
+      [
+        "42.366664",
+        "-71.067666"
+      ],
+      [
+        "42.371566",
+        "-71.076457"
+      ],
+      [
+        "42.377024",
+        "-71.093964"
+      ],
+      [
+        "42.356395",
+        "-71.062424"
+      ],
+      [
+        "42.359705",
+        "-71.059215"
+      ],
+      [
+        "42.363021",
+        "-71.058290"
+      ],
+      [
+        "42.365280",
+        "-71.060205"
+      ],
+      [
+        "42.366664",
+        "-71.067666"
+      ],
+      [
+        "42.370989",
+        "-71.075860"
+      ],
+      [
+        "42.387831",
+        "-71.096629"
+      ],
+      [
+        "42.394050",
+        "-71.106688"
+      ],
+      [
+        "42.400103",
+        "-71.111207"
+      ],
+      [
+        "42.408280",
+        "-71.117339"
+      ],
+      [
+        "42.379624",
+        "-71.086829"
+      ],
+      [
+        "42.356395",
+        "-71.062424"
+      ],
+      [
+        "42.359705",
+        "-71.059215"
+      ],
+      [
+        "42.363021",
+        "-71.058290"
+      ],
+      [
+        "42.365280",
+        "-71.060205"
+      ],
+      [
+        "42.366664",
+        "-71.067666"
+      ],
+      [
+        "42.371566",
+        "-71.076457"
+      ],
+      [
+        "42.388043",
+        "-71.096956"
+      ],
+      [
+        "42.394357",
+        "-71.106824"
+      ],
+      [
+        "42.400380",
+        "-71.111331"
+      ],
+      [
+        "42.408306",
+        "-71.117280"
+      ],
+      [
+        "42.379881",
+        "-71.087032"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000006",
+      "8000006",
+      "8000006",
+      "8000006",
+      "8000048",
+      "8000048",
+      "8000048",
+      "8000048",
+      "8000048",
+      "8000048",
+      "8000048",
+      "8000048",
+      "8000048",
+      "8000048",
+      "8000048",
+      "8000048",
+      "8000048",
+      "8000048",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043",
+      "8000043"
+    ]
+  },
+  {
+    "alert_id": "673396",
+    "effect": "DETOUR",
+    "effect_detail": "SHUTTLE",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "UPCOMING",
+    "created_at_boston": "2025-10-20T15:34:30-04:00",
+    "last_modified_boston": "2025-11-09T00:00:08-05:00",
+    "age_seconds": 1675538,
+    "age_human": "19d 09:25:38",
+    "header_texts": [
+      "Red Line: Shuttle buses will replace service between North Quincy and Braintree from November 15 - 23, for maintenance work. Commuter Rail service between Braintree and South Station will be fare-free. "
+    ],
+    "routes_affected": [
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line"
+    ],
+    "route_ids_affected": [
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "North Quincy",
+      "Wollaston",
+      "Quincy Center",
+      "Quincy Adams",
+      "Braintree",
+      "North Quincy",
+      "Wollaston",
+      "Quincy Center",
+      "Quincy Adams",
+      "Braintree"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.275770",
+        "-71.030194"
+      ],
+      [
+        "42.266762",
+        "-71.020542"
+      ],
+      [
+        "42.251809",
+        "-71.005409"
+      ],
+      [
+        "42.233391",
+        "-71.007153"
+      ],
+      [
+        "42.207424",
+        "-71.001645"
+      ],
+      [
+        "42.275802",
+        "-71.030144"
+      ],
+      [
+        "42.266788",
+        "-71.020457"
+      ],
+      [
+        "42.251809",
+        "-71.005409"
+      ],
+      [
+        "42.233391",
+        "-71.007153"
+      ],
+      [
+        "42.207424",
+        "-71.001645"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009"
+    ]
+  },
+  {
+    "alert_id": "673466",
+    "effect": "MODIFIED_SERVICE",
+    "effect_detail": "SCHEDULE_CHANGE",
+    "cause": "HOLIDAY",
+    "cause_detail": "HOLIDAY",
+    "lifecycle": "UPCOMING",
+    "created_at_boston": "2025-10-21T02:46:12-04:00",
+    "last_modified_boston": "2025-11-09T03:00:03-05:00",
+    "age_seconds": 1646031,
+    "age_human": "19d 01:13:51",
+    "header_texts": [
+      "On Tuesday, November 11th (Veterans Day), all Commuter Rail lines will operate on a regular weekday schedule."
+    ],
+    "routes_affected": [
+      "Fairmount Line",
+      "Fitchburg Line",
+      "Franklin/Foxboro Line",
+      "Greenbush Line",
+      "Haverhill Line",
+      "Kingston Line",
+      "Lowell Line",
+      "Needham Line",
+      "Fall River/New Bedford Line",
+      "Newburyport/Rockport Line",
+      "Providence/Stoughton Line",
+      "Framingham/Worcester Line"
+    ],
+    "route_ids_affected": [
+      "CR-Fairmount",
+      "CR-Fitchburg",
+      "CR-Franklin",
+      "CR-Greenbush",
+      "CR-Haverhill",
+      "CR-Kingston",
+      "CR-Lowell",
+      "CR-Needham",
+      "CR-NewBedford",
+      "CR-Newburyport",
+      "CR-Providence",
+      "CR-Worcester"
+    ],
+    "route_desc_affected": [
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "9870002",
+      "9840004",
+      "9880003",
+      "9900002",
+      "9820002",
+      "9790002",
+      "9830006",
+      "9860002",
+      "SouthStationToFallRiver",
+      "9810002",
+      "9890009",
+      "9850002"
+    ]
+  },
+  {
+    "alert_id": "673548",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "PARKING_ISSUE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-10-21T10:11:53-04:00",
+    "last_modified_boston": "2025-10-27T02:30:02-04:00",
+    "age_seconds": 490689,
+    "age_human": "5d 16:18:09",
+    "header_texts": [
+      "Wollaston Parking Lot will be partially closed from Oct 27 through Nov 28 to allow equipment to stage for Red Line track work. Use the North Quincy Garage or the Quincy Adams Garage as alternatives."
+    ],
+    "routes_affected": [
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line"
+    ],
+    "route_ids_affected": [
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Wollaston",
+      "Wollaston",
+      "Beale Street, drop-off/pick-up",
+      "Newport Ave (Stairs)",
+      "Newport Ave (Ramp)",
+      "Parking, drop-off/pick-up"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.266762",
+        "-71.020542"
+      ],
+      [
+        "42.266788",
+        "-71.020457"
+      ],
+      [
+        "42.266639",
+        "-71.019948"
+      ],
+      [
+        "42.266554",
+        "-71.020523"
+      ],
+      [
+        "42.266222",
+        "-71.020167"
+      ],
+      [
+        "42.266783",
+        "-71.020104"
+      ]
+    ],
+    "facilities_affected": [
+      "park-wlsta",
+      "park-wlsta",
+      "park-wlsta",
+      "park-wlsta",
+      "park-wlsta",
+      "park-wlsta"
+    ],
+    "shapes_affected": [
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009"
+    ]
+  },
+  {
+    "alert_id": "673566",
+    "effect": "UNKNOWN_EFFECT",
+    "effect_detail": "SERVICE_CHANGE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-10-21T11:41:04-04:00",
+    "last_modified_boston": "2025-11-09T03:14:00-05:00",
+    "age_seconds": 1614776,
+    "age_human": "18d 16:32:56",
+    "header_texts": [
+      "On the weekends of November 1-2 and 8-9, express and local shuttle buses will replace regular train service between Framingham & South Station, with service at Riverside for Green Line connections."
+    ],
+    "routes_affected": [
+      "Framingham/Worcester Line"
+    ],
+    "route_ids_affected": [
+      "CR-Worcester"
+    ],
+    "route_desc_affected": [
+      "Regional Rail"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "9850002"
+    ]
+  },
+  {
+    "alert_id": "674141",
+    "effect": "STOP_MOVED",
+    "effect_detail": "STOP_MOVE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-10-23T13:14:31-04:00",
+    "last_modified_boston": "2025-11-09T03:00:02-05:00",
+    "age_seconds": 1435531,
+    "age_human": "16d 14:45:31",
+    "header_texts": [
+      "The Northern Ave @ Tide St (inbound and outbound) stops are moving due to construction from Thursday, Nov 6, to Monday, Nov 10. The inbound stop is moving 100 feet east, in front of Drydock Plaza Park. The outbound stop is moving 350 feet west."
+    ],
+    "routes_affected": [
+      "North Station - Design Center",
+      "North Station - Design Center",
+      "Design Center - South Station",
+      "Design Center - South Station",
+      "Silver Line Way - South Station",
+      "Silver Line Way - South Station"
+    ],
+    "route_ids_affected": [
+      "4",
+      "4",
+      "742",
+      "742",
+      "746",
+      "746"
+    ],
+    "route_desc_affected": [
+      "Commuter Bus",
+      "Commuter Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus",
+      "Frequent Bus"
+    ],
+    "stops_affected": [
+      "Northern Ave @ Tide St",
+      "Northern Ave @ Tide St",
+      "Northern Ave @ Tide St",
+      "Northern Ave @ Tide St",
+      "Northern Ave @ Tide St",
+      "Northern Ave @ Tide St"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.345192",
+        "-71.031996"
+      ],
+      [
+        "42.345080",
+        "-71.031986"
+      ],
+      [
+        "42.345080",
+        "-71.031986"
+      ],
+      [
+        "42.345192",
+        "-71.031996"
+      ],
+      [
+        "42.345080",
+        "-71.031986"
+      ],
+      [
+        "42.345192",
+        "-71.031996"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "040089",
+      "040089",
+      "7420072",
+      "7420072",
+      "7460032",
+      "7460032"
+    ]
+  },
+  {
+    "alert_id": "675638",
+    "effect": "UNKNOWN_EFFECT",
+    "effect_detail": "SERVICE_CHANGE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "UPCOMING",
+    "created_at_boston": "2025-10-30T14:29:00-04:00",
+    "last_modified_boston": "2025-11-09T00:00:05-05:00",
+    "age_seconds": 815465,
+    "age_human": "9d 10:31:05",
+    "header_texts": [
+      "On the weekends of November 15-16 and 22-23, express and local shuttle buses will replace regular train service between Worcester and Framingham."
+    ],
+    "routes_affected": [
+      "Framingham/Worcester Line"
+    ],
+    "route_ids_affected": [
+      "CR-Worcester"
+    ],
+    "route_desc_affected": [
+      "Regional Rail"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "9850002"
+    ]
+  },
+  {
+    "alert_id": "675718",
+    "effect": "STOP_MOVED",
+    "effect_detail": "STOP_MOVE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-10-30T17:04:41-04:00",
+    "last_modified_boston": "2025-10-30T17:13:22-04:00",
+    "age_seconds": 521,
+    "age_human": "00:08:41",
+    "header_texts": [
+      "Amesbury St @ Vassar St (outbound) has moved permanently to Vassar St @ Audrey St."
+    ],
+    "routes_affected": [
+      "Sullivan Square Station - Ruggles Station"
+    ],
+    "route_ids_affected": [
+      "747"
+    ],
+    "route_desc_affected": [
+      "Local Bus"
+    ],
+    "stops_affected": [
+      "Amesbury St @ Vassar St"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.354929",
+        "-71.105120"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "7470085"
+    ]
+  },
+  {
+    "alert_id": "676493",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ESCALATOR_CLOSURE",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "UPCOMING",
+    "created_at_boston": "2025-11-03T08:02:53-05:00",
+    "last_modified_boston": "2025-11-03T08:02:53-05:00",
+    "age_seconds": 0,
+    "age_human": "00:00:00",
+    "header_texts": [
+      "Copley Escalator 439 (Kenmore & West, Heath Street lobby to street) unavailable from Thu Nov 27 through Sun Dec 14 due to maintenance"
+    ],
+    "routes_affected": [
+      "Green Line B",
+      "Green Line B",
+      "Green Line E",
+      "Green Line E",
+      "Green Line C",
+      "Green Line C",
+      "Green Line D",
+      "Green Line D"
+    ],
+    "route_ids_affected": [
+      "Green-B",
+      "Green-B",
+      "Green-E",
+      "Green-E",
+      "Green-C",
+      "Green-C",
+      "Green-D",
+      "Green-D"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Copley",
+      "Dartmouth St, Old South Church",
+      "Copley",
+      "Dartmouth St, Old South Church",
+      "Copley",
+      "Dartmouth St, Old South Church",
+      "Copley",
+      "Dartmouth St, Old South Church"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.350126",
+        "-71.077376"
+      ],
+      [
+        "42.350194",
+        "-71.077551"
+      ],
+      [
+        "42.350126",
+        "-71.077376"
+      ],
+      [
+        "42.350194",
+        "-71.077551"
+      ],
+      [
+        "42.350126",
+        "-71.077376"
+      ],
+      [
+        "42.350194",
+        "-71.077551"
+      ],
+      [
+        "42.350126",
+        "-71.077376"
+      ],
+      [
+        "42.350194",
+        "-71.077551"
+      ]
+    ],
+    "facilities_affected": [
+      "439",
+      "439",
+      "439",
+      "439",
+      "439",
+      "439",
+      "439",
+      "439"
+    ],
+    "shapes_affected": [
+      "8000013",
+      "8000013",
+      "8000043",
+      "8000043",
+      "8000006",
+      "8000006",
+      "8000048",
+      "8000048"
+    ]
+  },
+  {
+    "alert_id": "676495",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ESCALATOR_CLOSURE",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "UPCOMING",
+    "created_at_boston": "2025-11-03T08:03:39-05:00",
+    "last_modified_boston": "2025-11-03T08:03:39-05:00",
+    "age_seconds": 0,
+    "age_human": "00:00:00",
+    "header_texts": [
+      "Park Street Escalator 373 (Alewife platform to Tremont Street) unavailable from Mon Nov 17 through Fri Dec 5 due to maintenance"
+    ],
+    "routes_affected": [
+      "Red Line",
+      "Red Line"
+    ],
+    "route_ids_affected": [
+      "Red",
+      "Red"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Park Street",
+      "Escalator to Tremont St (North)"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.356395",
+        "-71.062424"
+      ],
+      [
+        "42.356504",
+        "-71.061904"
+      ]
+    ],
+    "facilities_affected": [
+      "373",
+      "373"
+    ],
+    "shapes_affected": [
+      "931_0009",
+      "931_0009"
+    ]
+  },
+  {
+    "alert_id": "676584",
+    "effect": "STOP_MOVED",
+    "effect_detail": "STOP_MOVE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-03T12:01:42-05:00",
+    "last_modified_boston": "2025-11-06T07:57:45-05:00",
+    "age_seconds": 244563,
+    "age_human": "2d 19:56:03",
+    "header_texts": [
+      "The Route 112 & 114 stop at the Market Basket in Chelsea has permanently moved to the other side of the store due to construction."
+    ],
+    "routes_affected": [
+      "Wellington Station - Wood Island Station",
+      "Market Basket - Maverick Station"
+    ],
+    "route_ids_affected": [
+      "112",
+      "114"
+    ],
+    "route_desc_affected": [
+      "Local Bus",
+      "Coverage Bus"
+    ],
+    "stops_affected": [
+      "Market Basket",
+      "Market Basket"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.396210",
+        "-71.041468"
+      ],
+      [
+        "42.396210",
+        "-71.041468"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "1120183",
+      "1140047"
+    ]
+  },
+  {
+    "alert_id": "676885",
+    "effect": "UNKNOWN_EFFECT",
+    "effect_detail": "SERVICE_CHANGE",
+    "cause": "CONSTRUCTION",
+    "cause_detail": "CONSTRUCTION",
+    "lifecycle": "ONGOING",
+    "created_at_boston": "2025-11-04T11:03:40-05:00",
+    "last_modified_boston": "2025-11-04T11:53:37-05:00",
+    "age_seconds": 2997,
+    "age_human": "00:49:57",
+    "header_texts": [
+      "The Route 47 Green St @ Magazine St bus stop is closed through January 2026 due to construction. Please board at Green St @ Pearl St for service to Broadway."
+    ],
+    "routes_affected": [
+      "Central Square, Cambridge - Broadway Station"
+    ],
+    "route_ids_affected": [
+      "47"
+    ],
+    "route_desc_affected": [
+      "Local Bus"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "470203"
+    ]
+  },
+  {
+    "alert_id": "677170",
+    "effect": "STOP_MOVED",
+    "effect_detail": "STOP_MOVE",
+    "cause": "CONSTRUCTION",
+    "cause_detail": "CONSTRUCTION",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-05T14:26:36-05:00",
+    "last_modified_boston": "2025-11-05T14:26:36-05:00",
+    "age_seconds": 0,
+    "age_human": "00:00:00",
+    "header_texts": [
+      "Somerville Ave opp Central St (inbound) is moving through Wed Nov 26 due to construction. Riders can board the temporary stop located outside of Veterans Memorial Rink."
+    ],
+    "routes_affected": [
+      "Rindge Avenue - Central Square, Cambridge",
+      "Clarendon Hill or Arlington Center - Lechmere Station"
+    ],
+    "route_ids_affected": [
+      "83",
+      "87"
+    ],
+    "route_desc_affected": [
+      "Local Bus",
+      "Local Bus"
+    ],
+    "stops_affected": [
+      "Somerville Ave opp Central St",
+      "Somerville Ave opp Central St"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.383284",
+        "-71.107022"
+      ],
+      [
+        "42.383284",
+        "-71.107022"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "830131",
+      "870206"
+    ]
+  },
+  {
+    "alert_id": "677171",
+    "effect": "STOP_MOVED",
+    "effect_detail": "STOP_MOVE",
+    "cause": "CONSTRUCTION",
+    "cause_detail": "CONSTRUCTION",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-05T14:28:01-05:00",
+    "last_modified_boston": "2025-11-05T14:28:01-05:00",
+    "age_seconds": 0,
+    "age_human": "00:00:00",
+    "header_texts": [
+      "Somerville Ave @ Central St (outbound) is moving through Wed Nov 26 due to construction. Riders can board at the temporary stop located on the opposite side of Bleachery Court."
+    ],
+    "routes_affected": [
+      "Rindge Avenue - Central Square, Cambridge",
+      "Clarendon Hill or Arlington Center - Lechmere Station"
+    ],
+    "route_ids_affected": [
+      "83",
+      "87"
+    ],
+    "route_desc_affected": [
+      "Local Bus",
+      "Local Bus"
+    ],
+    "stops_affected": [
+      "Somerville Ave @ Central St",
+      "Somerville Ave @ Central St"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.383388",
+        "-71.107062"
+      ],
+      [
+        "42.383388",
+        "-71.107062"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "830131",
+      "870206"
+    ]
+  },
+  {
+    "alert_id": "677253",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "PARKING_ISSUE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "UPCOMING",
+    "created_at_boston": "2025-11-05T17:57:34-05:00",
+    "last_modified_boston": "2025-11-09T00:00:08-05:00",
+    "age_seconds": 280954,
+    "age_human": "3d 06:02:34",
+    "header_texts": [
+      "The Abington Station parking lot access road from Summer St. will be closed for paving from 11/15 through 11/21. Please use the parking lot access on Centre Ave."
+    ],
+    "routes_affected": [
+      "Kingston Line"
+    ],
+    "route_ids_affected": [
+      "CR-Kingston"
+    ],
+    "route_desc_affected": [
+      "Regional Rail"
+    ],
+    "stops_affected": [
+      "Abington"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.107156",
+        "-70.934405"
+      ]
+    ],
+    "facilities_affected": [
+      "park-PB-0194"
+    ],
+    "shapes_affected": [
+      "9790002"
+    ]
+  },
+  {
+    "alert_id": "677315",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ESCALATOR_CLOSURE",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-06T06:19:31-05:00",
+    "last_modified_boston": "2025-11-06T06:20:01-05:00",
+    "age_seconds": 30,
+    "age_human": "00:00:30",
+    "header_texts": [
+      "Braintree Escalator 334 (Red Line platform to paid lobby) unavailable due to maintenance"
+    ],
+    "routes_affected": [
+      "Red Line",
+      "Red Line",
+      "Red Line"
+    ],
+    "route_ids_affected": [
+      "Red",
+      "Red",
+      "Red"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Braintree",
+      "Braintree",
+      "Braintree"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.207424",
+        "-71.001645"
+      ],
+      [
+        "42.207428",
+        "-71.001600"
+      ],
+      [
+        "42.207428",
+        "-71.001704"
+      ]
+    ],
+    "facilities_affected": [
+      "334",
+      "334",
+      "334"
+    ],
+    "shapes_affected": [
+      "931_0009",
+      "931_0009",
+      "931_0009"
+    ]
+  },
+  {
+    "alert_id": "677449",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "PARKING_CLOSURE",
+    "cause": "CONSTRUCTION",
+    "cause_detail": "CONSTRUCTION",
+    "lifecycle": "UPCOMING",
+    "created_at_boston": "2025-11-06T14:03:24-05:00",
+    "last_modified_boston": "2025-11-09T00:00:08-05:00",
+    "age_seconds": 208604,
+    "age_human": "2d 09:56:44",
+    "header_texts": [
+      "Braintree Ivory Street Parking Lot will be closed from Monday, Nov 10 through Saturday, Nov 15 due to construction. Alternative parking is available at Braintree Garage and Quincy Adams garage."
+    ],
+    "routes_affected": [
+      "Quincy Center Station - Fields Corner Station",
+      "Quincy Center Station - Fields Corner Station",
+      "Quincy Center Station - Fields Corner Station",
+      "Quincy Center Station - Fields Corner Station",
+      "Quincy Center Station - Fields Corner Station",
+      "Quincy Center Station - Fields Corner Station",
+      "Quincy Center Station - Fields Corner Station",
+      "Quincy Center Station - Fields Corner Station",
+      "Columbian Square - Braintree Station",
+      "Columbian Square - Braintree Station",
+      "Columbian Square - Braintree Station",
+      "Columbian Square - Braintree Station",
+      "Columbian Square - Braintree Station",
+      "Columbian Square - Braintree Station",
+      "Columbian Square - Braintree Station",
+      "Columbian Square - Braintree Station",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Kingston Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Red Line",
+      "Montello Station - Quincy Center Station",
+      "Montello Station - Quincy Center Station",
+      "Montello Station - Quincy Center Station",
+      "Montello Station - Quincy Center Station",
+      "Montello Station - Quincy Center Station",
+      "Montello Station - Quincy Center Station",
+      "Montello Station - Quincy Center Station",
+      "Montello Station - Quincy Center Station",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "Fall River/New Bedford Line",
+      "South Shore Plaza - Quincy Center Station",
+      "South Shore Plaza - Quincy Center Station",
+      "South Shore Plaza - Quincy Center Station",
+      "South Shore Plaza - Quincy Center Station",
+      "South Shore Plaza - Quincy Center Station",
+      "South Shore Plaza - Quincy Center Station",
+      "South Shore Plaza - Quincy Center Station",
+      "South Shore Plaza - Quincy Center Station"
+    ],
+    "route_ids_affected": [
+      "210",
+      "210",
+      "210",
+      "210",
+      "210",
+      "210",
+      "210",
+      "210",
+      "226",
+      "226",
+      "226",
+      "226",
+      "226",
+      "226",
+      "226",
+      "226",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "CR-Kingston",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "Red",
+      "230",
+      "230",
+      "230",
+      "230",
+      "230",
+      "230",
+      "230",
+      "230",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "CR-NewBedford",
+      "236",
+      "236",
+      "236",
+      "236",
+      "236",
+      "236",
+      "236",
+      "236"
+    ],
+    "route_desc_affected": [
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Regional Rail",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus"
+    ],
+    "stops_affected": [
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Garage, Buses, Ivory St",
+      "Garage, Buses, Union St",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Garage, Buses, Ivory St",
+      "Garage, Buses, Union St",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Garage, Buses, Ivory St",
+      "Garage, Buses, Union St",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Garage, Buses, Ivory St",
+      "Garage, Buses, Union St",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Garage, Buses, Ivory St",
+      "Garage, Buses, Union St",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Garage, Buses, Ivory St",
+      "Garage, Buses, Union St",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Braintree",
+      "Garage, Buses, Ivory St",
+      "Garage, Buses, Union St",
+      "Braintree",
+      "Braintree"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.207213",
+        "-71.001278"
+      ],
+      [
+        "42.207424",
+        "-71.001645"
+      ],
+      [
+        "42.207428",
+        "-71.001600"
+      ],
+      [
+        "42.207428",
+        "-71.001704"
+      ],
+      [
+        "42.207352",
+        "-71.001361"
+      ],
+      [
+        "42.207528",
+        "-71.001339"
+      ],
+      [
+        "42.209961",
+        "-71.001031"
+      ],
+      [
+        "42.209964",
+        "-71.001088"
+      ],
+      [
+        "42.207213",
+        "-71.001278"
+      ],
+      [
+        "42.207424",
+        "-71.001645"
+      ],
+      [
+        "42.207428",
+        "-71.001600"
+      ],
+      [
+        "42.207428",
+        "-71.001704"
+      ],
+      [
+        "42.207352",
+        "-71.001361"
+      ],
+      [
+        "42.207528",
+        "-71.001339"
+      ],
+      [
+        "42.209961",
+        "-71.001031"
+      ],
+      [
+        "42.209964",
+        "-71.001088"
+      ],
+      [
+        "42.207213",
+        "-71.001278"
+      ],
+      [
+        "42.207424",
+        "-71.001645"
+      ],
+      [
+        "42.207428",
+        "-71.001600"
+      ],
+      [
+        "42.207428",
+        "-71.001704"
+      ],
+      [
+        "42.207352",
+        "-71.001361"
+      ],
+      [
+        "42.207528",
+        "-71.001339"
+      ],
+      [
+        "42.209961",
+        "-71.001031"
+      ],
+      [
+        "42.209964",
+        "-71.001088"
+      ],
+      [
+        "42.207213",
+        "-71.001278"
+      ],
+      [
+        "42.207424",
+        "-71.001645"
+      ],
+      [
+        "42.207428",
+        "-71.001600"
+      ],
+      [
+        "42.207428",
+        "-71.001704"
+      ],
+      [
+        "42.207352",
+        "-71.001361"
+      ],
+      [
+        "42.207528",
+        "-71.001339"
+      ],
+      [
+        "42.209961",
+        "-71.001031"
+      ],
+      [
+        "42.209964",
+        "-71.001088"
+      ],
+      [
+        "42.207213",
+        "-71.001278"
+      ],
+      [
+        "42.207424",
+        "-71.001645"
+      ],
+      [
+        "42.207428",
+        "-71.001600"
+      ],
+      [
+        "42.207428",
+        "-71.001704"
+      ],
+      [
+        "42.207352",
+        "-71.001361"
+      ],
+      [
+        "42.207528",
+        "-71.001339"
+      ],
+      [
+        "42.209961",
+        "-71.001031"
+      ],
+      [
+        "42.209964",
+        "-71.001088"
+      ],
+      [
+        "42.207213",
+        "-71.001278"
+      ],
+      [
+        "42.207424",
+        "-71.001645"
+      ],
+      [
+        "42.207428",
+        "-71.001600"
+      ],
+      [
+        "42.207428",
+        "-71.001704"
+      ],
+      [
+        "42.207352",
+        "-71.001361"
+      ],
+      [
+        "42.207528",
+        "-71.001339"
+      ],
+      [
+        "42.209961",
+        "-71.001031"
+      ],
+      [
+        "42.209964",
+        "-71.001088"
+      ],
+      [
+        "42.207213",
+        "-71.001278"
+      ],
+      [
+        "42.207424",
+        "-71.001645"
+      ],
+      [
+        "42.207428",
+        "-71.001600"
+      ],
+      [
+        "42.207428",
+        "-71.001704"
+      ],
+      [
+        "42.207352",
+        "-71.001361"
+      ],
+      [
+        "42.207528",
+        "-71.001339"
+      ],
+      [
+        "42.209961",
+        "-71.001031"
+      ],
+      [
+        "42.209964",
+        "-71.001088"
+      ]
+    ],
+    "facilities_affected": [
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a",
+      "park-brntn-lot-a"
+    ],
+    "shapes_affected": [
+      "2100117",
+      "2100117",
+      "2100117",
+      "2100117",
+      "2100117",
+      "2100117",
+      "2100117",
+      "2100117",
+      "2260036",
+      "2260036",
+      "2260036",
+      "2260036",
+      "2260036",
+      "2260036",
+      "2260036",
+      "2260036",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "9790002",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "931_0009",
+      "2300165",
+      "2300165",
+      "2300165",
+      "2300165",
+      "2300165",
+      "2300165",
+      "2300165",
+      "2300165",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "SouthStationToFallRiver",
+      "2360097",
+      "2360097",
+      "2360097",
+      "2360097",
+      "2360097",
+      "2360097",
+      "2360097",
+      "2360097"
+    ]
+  },
+  {
+    "alert_id": "678014",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "TRACK_CHANGE",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-09T07:08:07-05:00",
+    "last_modified_boston": "2025-11-09T07:08:07-05:00",
+    "age_seconds": 0,
+    "age_human": "00:00:00",
+    "header_texts": [
+      "Please board all Framingham/Worcester Line trains on the outbound platform (Track 1) at Framingham until further notice."
+    ],
+    "routes_affected": [
+      "Framingham/Worcester Line",
+      "Framingham/Worcester Line"
+    ],
+    "route_ids_affected": [
+      "CR-Worcester",
+      "CR-Worcester"
+    ],
+    "route_desc_affected": [
+      "Regional Rail",
+      "Regional Rail"
+    ],
+    "stops_affected": [
+      "Framingham",
+      "Framingham"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.276108",
+        "-71.420055"
+      ],
+      [
+        "42.276108",
+        "-71.420055"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "9850002",
+      "9850002"
+    ]
+  },
+  {
+    "alert_id": "678031",
+    "effect": "REDUCED_SERVICE",
+    "effect_detail": "DELAY",
+    "cause": "MAINTENANCE",
+    "cause_detail": "SINGLE_TRACKING",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-09T10:37:39-05:00",
+    "last_modified_boston": "2025-11-09T14:56:50-05:00",
+    "age_seconds": 15551,
+    "age_human": "04:19:11",
+    "header_texts": [
+      "Orange Line: All trains at Wellington are operating on the northbound (Oak Grove) track due to a track problem until the end of service at 1:00 AM. Riders may experience delays while personnel work to overcome the issue."
+    ],
+    "routes_affected": [
+      "Orange Line",
+      "Orange Line"
+    ],
+    "route_ids_affected": [
+      "Orange",
+      "Orange"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Wellington",
+      "Wellington"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.401505",
+        "-71.077252"
+      ],
+      [
+        "42.401507",
+        "-71.077150"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "903_0026",
+      "903_0026"
+    ]
+  },
+  {
+    "alert_id": "678050",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "DELAY",
+    "cause": "OTHER_CAUSE",
+    "cause_detail": "TRAFFIC",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-09T11:53:01-05:00",
+    "last_modified_boston": "2025-11-09T11:53:01-05:00",
+    "age_seconds": 0,
+    "age_human": "00:00:00",
+    "header_texts": [
+      "Route 60 is experiencing delays of up to 20 minutes due to traffic"
+    ],
+    "routes_affected": [
+      "Chestnut Hill - Kenmore Station"
+    ],
+    "route_ids_affected": [
+      "60"
+    ],
+    "route_desc_affected": [
+      "Local Bus"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "600241"
+    ]
+  },
+  {
+    "alert_id": "678056",
+    "effect": "DETOUR",
+    "effect_detail": "DETOUR",
+    "cause": "CONSTRUCTION",
+    "cause_detail": "CONSTRUCTION",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-09T12:47:36-05:00",
+    "last_modified_boston": "2025-11-09T12:47:36-05:00",
+    "age_seconds": 0,
+    "age_human": "00:00:00",
+    "header_texts": [
+      "Routes 8 & 60 detoured due to the special event Inbound: connections can be made at Brookline Ave @ Newbury St and Brookline Ave @ The Fenway. Outbound: connections can be made at Brookline Ave @ Pilgrim Rd and Brookline Ave opp Newbury St."
+    ],
+    "routes_affected": [
+      "Fields Corner Station - Kenmore or Ruggles Station",
+      "Chestnut Hill - Kenmore Station",
+      "Brighton Center - Kenmore Station",
+      "Harbor Point - Kenmore Station"
+    ],
+    "route_ids_affected": [
+      "19",
+      "60",
+      "65",
+      "8"
+    ],
+    "route_desc_affected": [
+      "Local Bus",
+      "Local Bus",
+      "Local Bus",
+      "Local Bus"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "190321",
+      "600241",
+      "650133",
+      "080287"
+    ]
+  },
+  {
+    "alert_id": "678076",
+    "effect": "DETOUR",
+    "effect_detail": "DETOUR",
+    "cause": "OTHER_CAUSE",
+    "cause_detail": "SPECIAL_EVENT",
+    "lifecycle": "UPCOMING",
+    "created_at_boston": "2025-11-09T16:21:00-05:00",
+    "last_modified_boston": "2025-11-09T16:33:25-05:00",
+    "age_seconds": 745,
+    "age_human": "00:12:25",
+    "header_texts": [
+      "Route 134 will be detoured on Tue Nov 11 from 10:15 AM to 12:00 PM due to the annual Woburn Veterans Day Parade. Inbound connections at Main St @ Kilby St and Main St @ Myrtle St. Outbound connections at Main St @ Montvale Ave and Main St @ Manning St."
+    ],
+    "routes_affected": [
+      "North Woburn - Wellington Station",
+      "North Woburn - Wellington Station",
+      "North Woburn - Wellington Station"
+    ],
+    "route_ids_affected": [
+      "134",
+      "134",
+      "134"
+    ],
+    "route_desc_affected": [
+      "Local Bus",
+      "Local Bus",
+      "Local Bus"
+    ],
+    "stops_affected": [
+      "Common St @ Woburn City Hall",
+      "Main St @ Everett St",
+      "466 Main St opp Union St"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.479132",
+        "-71.152051"
+      ],
+      [
+        "42.481204",
+        "-71.150841"
+      ],
+      [
+        "42.481604",
+        "-71.150859"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "1340443",
+      "1340443",
+      "1340443"
+    ]
+  },
+  {
+    "alert_id": "678089",
+    "effect": "DETOUR",
+    "effect_detail": "SHUTTLE",
+    "cause": "TECHNICAL_PROBLEM",
+    "cause_detail": "DISABLED_TRAIN",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-09T17:14:31-05:00",
+    "last_modified_boston": "2025-11-09T20:14:49-05:00",
+    "age_seconds": 10818,
+    "age_human": "03:00:18",
+    "header_texts": [
+      "Green Line B Branch: Shuttle buses are replacing service between Washington St and Boston College due to a disabled train at Boston College."
+    ],
+    "routes_affected": [
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B",
+      "Green Line B"
+    ],
+    "route_ids_affected": [
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B",
+      "Green-B"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Babcock Street",
+      "Boston College",
+      "South Street",
+      "Chestnut Hill Avenue",
+      "Chiswick Road",
+      "Sutherland Road",
+      "Washington Street",
+      "Warren Street",
+      "Allston Street",
+      "Griggs Street",
+      "Harvard Avenue",
+      "Packard's Corner",
+      "Babcock Street",
+      "Boston College",
+      "South Street",
+      "Chestnut Hill Avenue",
+      "Chiswick Road",
+      "Sutherland Road",
+      "Washington Street",
+      "Warren Street",
+      "Allston Street",
+      "Griggs Street",
+      "Harvard Avenue",
+      "Packard's Corner"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.351695",
+        "-71.120257"
+      ],
+      [
+        "42.340240",
+        "-71.166849"
+      ],
+      [
+        "42.339581",
+        "-71.157499"
+      ],
+      [
+        "42.338290",
+        "-71.153025"
+      ],
+      [
+        "42.340540",
+        "-71.151140"
+      ],
+      [
+        "42.341577",
+        "-71.146607"
+      ],
+      [
+        "42.343974",
+        "-71.142731"
+      ],
+      [
+        "42.348819",
+        "-71.140051"
+      ],
+      [
+        "42.348546",
+        "-71.137362"
+      ],
+      [
+        "42.348919",
+        "-71.134305"
+      ],
+      [
+        "42.350602",
+        "-71.130727"
+      ],
+      [
+        "42.351651",
+        "-71.125510"
+      ],
+      [
+        "42.351538",
+        "-71.119553"
+      ],
+      [
+        "42.340149",
+        "-71.167029"
+      ],
+      [
+        "42.339371",
+        "-71.157057"
+      ],
+      [
+        "42.338730",
+        "-71.152526"
+      ],
+      [
+        "42.340808",
+        "-71.150633"
+      ],
+      [
+        "42.341589",
+        "-71.146089"
+      ],
+      [
+        "42.344329",
+        "-71.142385"
+      ],
+      [
+        "42.348285",
+        "-71.140436"
+      ],
+      [
+        "42.348649",
+        "-71.137881"
+      ],
+      [
+        "42.348747",
+        "-71.134500"
+      ],
+      [
+        "42.350263",
+        "-71.131298"
+      ],
+      [
+        "42.351891",
+        "-71.125067"
+      ]
+    ],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013",
+      "8000013"
+    ]
+  },
+  {
+    "alert_id": "678108",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ELEVATOR_CLOSURE",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-09T18:29:32-05:00",
+    "last_modified_boston": "2025-11-09T18:30:02-05:00",
+    "age_seconds": 30,
+    "age_human": "00:00:30",
+    "header_texts": [
+      "Wonderland Elevator 709 (North Shore Road Busway to pedestrian plaza) unavailable due to maintenance"
+    ],
+    "routes_affected": [
+      "Blue Line",
+      "Blue Line"
+    ],
+    "route_ids_affected": [
+      "Blue",
+      "Blue"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Wonderland",
+      "Revere Beach"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.413514",
+        "-70.991714"
+      ],
+      [
+        "42.413290",
+        "-70.989770"
+      ]
+    ],
+    "facilities_affected": [
+      "709",
+      "709"
+    ],
+    "shapes_affected": [
+      "946_0013",
+      "946_0013"
+    ]
+  },
+  {
+    "alert_id": "678118",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "DELAY",
+    "cause": "OTHER_CAUSE",
+    "cause_detail": "TRAFFIC",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-09T19:16:34-05:00",
+    "last_modified_boston": "2025-11-09T19:30:38-05:00",
+    "age_seconds": 844,
+    "age_human": "00:14:04",
+    "header_texts": [
+      "Route 75 is experiencing delays of up to 30 minutes due to traffic"
+    ],
+    "routes_affected": [
+      "Belmont Center - Harvard via Huron Avenue"
+    ],
+    "route_ids_affected": [
+      "75"
+    ],
+    "route_desc_affected": [
+      "Local Bus"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "750121"
+    ]
+  },
+  {
+    "alert_id": "678122",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "DELAY",
+    "cause": "UNKNOWN_CAUSE",
+    "cause_detail": "UNKNOWN_CAUSE",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-09T19:31:17-05:00",
+    "last_modified_boston": "2025-11-09T22:10:01-05:00",
+    "age_seconds": 9524,
+    "age_human": "02:38:44",
+    "header_texts": [
+      "Franklin Line Train 5778 (7:57 pm from Forge Park/495) is expected to depart Forge Park 5-15 minutes behind schedule due to Amtrak infrastructure repairs and slippery rail conditions."
+    ],
+    "routes_affected": [
+      "Franklin/Foxboro Line"
+    ],
+    "route_ids_affected": [
+      "CR-Franklin"
+    ],
+    "route_desc_affected": [
+      "Regional Rail"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "9880003"
+    ]
+  },
+  {
+    "alert_id": "678123",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "DELAY",
+    "cause": "OTHER_CAUSE",
+    "cause_detail": "TRAFFIC",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-09T19:41:42-05:00",
+    "last_modified_boston": "2025-11-09T19:41:42-05:00",
+    "age_seconds": 0,
+    "age_human": "00:00:00",
+    "header_texts": [
+      "Route 57 is experiencing delays of up to 20 minutes due to traffic"
+    ],
+    "routes_affected": [
+      "Watertown Yard - Kenmore Station"
+    ],
+    "route_ids_affected": [
+      "57"
+    ],
+    "route_desc_affected": [
+      "Frequent Bus"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "570292"
+    ]
+  },
+  {
+    "alert_id": "678126",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "DELAY",
+    "cause": "POLICE_ACTIVITY",
+    "cause_detail": "POLICE_ACTION",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-09T20:35:34-05:00",
+    "last_modified_boston": "2025-11-09T20:35:34-05:00",
+    "age_seconds": 0,
+    "age_human": "00:00:00",
+    "header_texts": [
+      "Route 66 is experiencing delays of up to 20 minutes due to police activity"
+    ],
+    "routes_affected": [
+      "Harvard Square - Nubian Station"
+    ],
+    "route_ids_affected": [
+      "66"
+    ],
+    "route_desc_affected": [
+      "Frequent Bus"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "660299"
+    ]
+  },
+  {
+    "alert_id": "678130",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "DELAY",
+    "cause": "OTHER_CAUSE",
+    "cause_detail": "TRAFFIC",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-09T21:32:33-05:00",
+    "last_modified_boston": "2025-11-09T21:32:33-05:00",
+    "age_seconds": 0,
+    "age_human": "00:00:00",
+    "header_texts": [
+      "Route 28 is experiencing delays of up to 20 minutes due to traffic"
+    ],
+    "routes_affected": [
+      "Mattapan Station - Ruggles Station"
+    ],
+    "route_ids_affected": [
+      "28"
+    ],
+    "route_desc_affected": [
+      "Frequent Bus"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "280193"
+    ]
+  },
+  {
+    "alert_id": "678131",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "DELAY",
+    "cause": "OTHER_CAUSE",
+    "cause_detail": "TRAFFIC",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-09T21:32:57-05:00",
+    "last_modified_boston": "2025-11-09T21:32:57-05:00",
+    "age_seconds": 0,
+    "age_human": "00:00:00",
+    "header_texts": [
+      "Route 78 is experiencing delays of up to 20 minutes due to traffic"
+    ],
+    "routes_affected": [
+      "Arlmont Village - Harvard Station"
+    ],
+    "route_ids_affected": [
+      "78"
+    ],
+    "route_desc_affected": [
+      "Local Bus"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "780158"
+    ]
+  },
+  {
+    "alert_id": "678132",
+    "effect": "OTHER_EFFECT",
+    "effect_detail": "DELAY",
+    "cause": "OTHER_CAUSE",
+    "cause_detail": "TRAFFIC",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-09T21:34:29-05:00",
+    "last_modified_boston": "2025-11-09T21:34:29-05:00",
+    "age_seconds": 0,
+    "age_human": "00:00:00",
+    "header_texts": [
+      "Route 34E is experiencing delays of up to 20 minutes due to traffic"
+    ],
+    "routes_affected": [
+      "Walpole Center - Forest Hills Station"
+    ],
+    "route_ids_affected": [
+      "34E"
+    ],
+    "route_desc_affected": [
+      "Local Bus"
+    ],
+    "stops_affected": [],
+    "stops_latlon_affected": [],
+    "facilities_affected": [],
+    "shapes_affected": [
+      "34E0268"
+    ]
+  },
+  {
+    "alert_id": "678133",
+    "effect": "ACCESSIBILITY_ISSUE",
+    "effect_detail": "ESCALATOR_CLOSURE",
+    "cause": "MAINTENANCE",
+    "cause_detail": "MAINTENANCE",
+    "lifecycle": "NEW",
+    "created_at_boston": "2025-11-09T21:52:31-05:00",
+    "last_modified_boston": "2025-11-09T21:53:01-05:00",
+    "age_seconds": 30,
+    "age_human": "00:00:30",
+    "header_texts": [
+      "Sullivan Square Escalator 308 (Oak Grove platform to paid lobby) unavailable due to maintenance"
+    ],
+    "routes_affected": [
+      "Orange Line",
+      "Orange Line",
+      "Orange Line"
+    ],
+    "route_ids_affected": [
+      "Orange",
+      "Orange",
+      "Orange"
+    ],
+    "route_desc_affected": [
+      "Rapid Transit",
+      "Rapid Transit",
+      "Rapid Transit"
+    ],
+    "stops_affected": [
+      "Sullivan Square",
+      "Sullivan Square",
+      "Buses, Parking, Street"
+    ],
+    "stops_latlon_affected": [
+      [
+        "42.383975",
+        "-71.076994"
+      ],
+      [
+        "42.383975",
+        "-71.076994"
+      ],
+      [
+        "42.384309",
+        "-71.076635"
+      ]
+    ],
+    "facilities_affected": [
+      "308",
+      "308",
+      "308"
+    ],
+    "shapes_affected": [
+      "903_0026",
+      "903_0026",
+      "903_0026"
+    ]
+  }
+]
