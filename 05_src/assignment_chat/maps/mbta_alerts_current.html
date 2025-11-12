@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>MBTA Alerts Map</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+  crossorigin=""
+/>
+<style>
+  html, body, #map { height: 100%; margin: 0; padding: 0; }
+  .leaflet-control-attribution { font-size: 11px; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script
+  src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+  crossorigin="">
+</script>
+<script>
+  var map = L.map('map').setView([42.3601,-71.0589], 12);
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  var markers = [L.marker([42.352271,-71.055242]),L.marker([42.351551,-71.055716]),L.marker([42.35069,-71.056121]),L.marker([42.35141,-71.055417]),L.marker([42.350742,-71.05493]),L.marker([42.35122,-71.055396]),L.marker([42.351108,-71.054729]),L.marker([42.351302,-71.05571]),L.marker([42.351178,-71.055238]),L.marker([42.352302,-71.05523]),L.marker([42.351136,-71.055081]),L.marker([42.350143,-71.055743]),L.marker([42.351261,-71.055552]),L.marker([42.352544,-71.055824]),L.marker([42.351034,-71.054958]),L.marker([42.352886,-71.055505]),L.marker([42.352677,-71.055013]),L.marker([42.352363,-71.055071]),L.marker([42.352293,-71.055529]),L.marker([42.351787,-71.054402]),L.marker([42.352161,-71.046469])];
+  markers.forEach(m => m.addTo(map));
+
+  
+        var group = L.featureGroup(markers).addTo(map);
+        map.fitBounds(group.getBounds().pad(0.2));
+        
+</script>
+</body>
+</html>
